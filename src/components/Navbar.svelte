@@ -25,7 +25,7 @@
 						</li>
 
 						<li>
-							<a class="text-gray-200 transition hover:text-gray-300/75" href="/"> Team </a>
+							<a class="text-gray-200 transition hover:text-gray-300/75" href="/teams"> Team </a>
 						</li>
 
 						<li>
