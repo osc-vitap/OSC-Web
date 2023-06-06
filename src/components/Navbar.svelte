@@ -29,7 +29,7 @@
 						</li>
 
 						<li>
-							<a class="text-gray-200 transition hover:text-gray-300/75" href="/"> Events </a>
+							<a class="text-gray-200 transition hover:text-gray-300/75" href="/events"> Events </a>
 						</li>
 
 						<li>
