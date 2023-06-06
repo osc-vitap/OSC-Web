@@ -75,12 +75,7 @@
 				image="https://i.ibb.co/kgwHypY/isa.jpg"
 				link="https://www.linkedin.com/in/isa-hasan-59375a226/"
 			/>
-			<TeamCard
-				title="Jai Gaurav"
-				disc="Editor"
-				image="https://i.ibb.co/k3w4HcQ/gaurav.jpg"
-				link="https://www.linkedin.com/in/jai-gaurav-092656228"
-			/>
+			
 			<TeamCard
 				title="M. Anas Shakil Kazi"
 				disc="Event Management"
