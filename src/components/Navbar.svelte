@@ -4,15 +4,15 @@
 
 <header
 	aria-label="Site Header"
-	class="w-full bg-zinc-800 backdrop-filter backdrop-blur-lg bg-opacity-30 fixed border-b-2 border-zinc-900 border-opacity-10"
+	class="w-full bg-zinc-800 backdrop-filter backdrop-blur-lg bg-opacity-30 fixed border-b-2 border-zinc-900 border-opacity-10 z-20"
 >
 	<div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
 		<div class="flex h-16 items-center justify-between">
 			<!-- LOGO BRANDING -->
-			<div class="flex-1 md:flex md:items-center md:gap-12">
+			<div class="">
 				<a class="block" href="/">
 					<span class="sr-only">Home</span>
-					<OscFullLogoWhite height="35" />
+					<OscFullLogoWhite height="35"/>
 				</a>
 			</div>
 
@@ -40,11 +40,11 @@
 				</nav>
 
 				<!-- OSC Platforms Button -->
-				<div class="flex items-center gap-4">
-					<div class="sm:flex sm:gap-4">
+				<div class="flex items-center gap-4 ">
+					<div class="flex">
 						<a
 							href="#_"
-							class="rounded px-5 py-1 overflow-hidden group border-2 border-white border-opacity-20 relative hover:bg-gradient-to-r hover:from-orange-500 hover:to-red-700 text-white hover:ring-2 hover:ring-offset-2 hover:ring-red-400 transition-all ease-out duration-300"
+							class="hidden xs:block mr-4 rounded px-5 py-1 overflow-hidden group border-2 border-white border-opacity-20 relative hover:bg-gradient-to-r hover:from-orange-500 hover:to-red-700 text-white hover:ring-2 hover:ring-offset-2 hover:ring-red-400 transition-all ease-out duration-300"
 						>
 							<span
 								class="absolute right-0 w-8 h-32 -mt-12 transition-all duration-1000 transform translate-x-12 bg-white opacity-10 rotate-12 group-hover:-translate-x-40 ease"
