@@ -887,5 +887,6 @@
 		z-index: -1;
 
 		-webkit-mask-image: radial-gradient(3000% 100% at bottom, transparent 20%, #fff 60%);
+		        mask-image: radial-gradient(3000% 100% at bottom, transparent 20%, #fff 60%);
 	}
 </style>
