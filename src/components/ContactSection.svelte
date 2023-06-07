@@ -19,7 +19,7 @@
 				</p>
 
 				<div class="mt-8">
-					<a href="" class="text-2xl font-bold text-white">+91 0151 475 4450 </a>
+					<a href="" class="text-2xl font-bold text-zinc-600">+91 0151 475 4450 </a>
 
 					<address class="mt-2 not-italic text-zinc-500">282 Kevin Brook, Imogeneborough, CA 58517</address>
 				</div>
@@ -63,7 +63,7 @@
 						<label class="sr-only" for="message">Message</label>
 
 						<textarea
-							class="w-full rounded-lg border-gray-200 p-3 text-sm"
+							class="w-full rounded-lg border-gray-300 p-3 text-sm"
 							placeholder="Message"
 							rows="5"
 							id="message"
