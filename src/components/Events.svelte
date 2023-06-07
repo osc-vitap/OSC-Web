@@ -5,7 +5,7 @@
 
 <section class="bg-transparent py-8">
 	<div class="mx-auto  px-4 py-2 sm:px-6 lg:px-8">
-        <div class="text-5xl font-extrabold text-black py-12 lg:px-4">
+        <div class="text-5xl font-extrabold text-white py-12 lg:px-4 text-left">
             Events
         </div>
         <div class="items-center text-center flex justify-center">
