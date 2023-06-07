@@ -1,5 +1,5 @@
 <script>
-    import { Card,Button, Badge } from 'flowbite-svelte';
+    import { Card,GradientButton, Badge,Button } from 'flowbite-svelte';
 </script>
 
 
@@ -10,39 +10,40 @@
         </div>
         <div class="items-center text-center flex justify-center">
             <ul class="text- flex items-center gap-6 text-sm">
+                
                 <li>
                     <a href="/events">
-                        <Button outline color="light">2023</Button>
+                      <GradientButton outline color="purpleToBlue" >2023</GradientButton>
                     </a>
                 </li>
                 <li>
                     <a href="/events-2022">
-                        <Button outline color="light">2022</Button>
+                        <GradientButton outline color="purpleToBlue">2022</GradientButton>
                     </a>
                 </li>
                 <li>
                     <a href="/events-2021">
-                        <Button outline color="light">2021</Button>
+                        <GradientButton outline color="purpleToBlue">2021</GradientButton>
                     </a>
                 </li>   
                 <li>
                     <a href="/events-2020">
-                        <Button outline color="light">2020</Button>
+                        <GradientButton outline color="purpleToBlue">2020</GradientButton>
                     </a>
                 </li>
                 <li>
                     <a href="/events-2019">
-                        <Button outline color="light">2019</Button>
+                        <GradientButton outline color="purpleToBlue">2019</GradientButton>
                     </a>
                 </li> 
                 <li>
                     <a href="/events-2018">
-                        <Button outline color="light">2018</Button>
+                        <GradientButton outline color="purpleToBlue">2018</GradientButton>
                     </a>
                 </li>                                                                      
             </ul>
         </div>
-          <div div class="text- flex items-center text-center justify-center pt-7">
+          <div >
             <div class="mt-5 mb-5 grid grid-cols-2 gap-4 md:gap-2 lg:grid-cols-3">
                   <Card img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
