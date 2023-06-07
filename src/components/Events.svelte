@@ -55,7 +55,7 @@
                   </Card>
 
                   
-                    <Card img="https://oscvitap.org/static/media/6.f73bed10f0331f408929.jpg">
+                    <Card img="src\images\TechCastep4.jpg">
                       <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">TechCast Ep. 4</h5>
                       <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
                         TechCast, OSC's online guest lecture series, transported students into the minds of industry experts, enriching their knowledge and inspiring innovation.
@@ -64,7 +64,7 @@
                         May 25, 2023 | 4 PM
                       </Badge>
                     </Card>
-                    <Card img="https://oscvitap.org/static/media/5.605d84b111522c7fde3f.png">
+                    <Card img="src\images\GDSC.jpg">
                       <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SDG Open Hack</h5>
                       <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
                         SDG Open Hack united minds and technology, fostering collaborative solutions for a sustainable future.
