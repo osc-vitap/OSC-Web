@@ -21,12 +21,15 @@
 				<div class="mt-8">
 					<a href="" class="text-2xl font-bold text-zinc-600">+91 0151 475 4450 </a>
 
-					<address class="mt-2 not-italic text-zinc-500">282 Kevin Brook, Imogeneborough, CA 58517</address>
+					<address class="mt-2 not-italic text-zinc-600">282 Kevin Brook, Imogeneborough, CA 58517</address>
 				</div>
 			</div>
 
 			<div class="rounded-lg bg-white p-4 shadow-lg lg:col-span-3 lg:p-6">
 				<form action="" class="space-y-4">
+					<h3 class="text-1xl font-bold  text-grey-300 sm:text-2xl">
+						Want to tell us Something?
+					</h3>
 					<div>
 						<label class="sr-only" for="name">Name</label>
 						<input
@@ -74,7 +77,7 @@
 						<button
 							type="submit"
 							class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">
-							Send Enquiry?
+							Send
 						</button>
 					</div>
 				</form>
