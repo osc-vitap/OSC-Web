@@ -42,16 +42,42 @@
                 </li>                                                                      
             </ul>
         </div>
-          <div>
-            <Card img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
-              <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
-                OSC organized a thrilling CTF event, challenging participants to navigate through cybersecurity puzzles and capture the flag.
-              </p>
-              <Badge color="dark">
-                Jan 21, 2023 | 4 PM
-              </Badge>
-            </Card>
-          </div>
-	</div>
+         <div class="text- flex items-center text-center justify-center pt-7">
+            <div class="p-4">
+                <Card padding="xl" img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
+                    OSC organized a thrilling CTF event, challenging participants to navigate through cybersecurity puzzles and capture the flag.
+                </p>
+                <Badge color="dark">
+                    Jan 21, 2023 | 4 PM
+                </Badge>
+                </Card>
+            </div>
+
+            <div class="p-4">
+                <Card padding="xl" img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
+                    OSC organized a thrilling CTF event, challenging participants to navigate through cybersecurity puzzles and capture the flag.
+                </p>
+                <Badge color="dark">
+                    Jan 21, 2023 | 4 PM
+                </Badge>
+                </Card>
+            </div>
+
+            <div class="p-4">
+                <Card padding="xl" img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
+                    OSC organized a thrilling CTF event, challenging participants to navigate through cybersecurity puzzles and capture the flag.
+                </p>
+                <Badge color="dark">
+                    Jan 21, 2023 | 4 PM
+                </Badge>
+                </Card>
+            </div>
+         </div>
+	   </div>
 </section>
