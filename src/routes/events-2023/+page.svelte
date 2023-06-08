@@ -6,11 +6,11 @@
 
 <style>
   .card{
-    transition: transform 0.3s;
+    transition: transform 0.2s;
   }
 
   .card:hover{
-    transform:scale(1.2)
+    transform:scale(1.1)
   }
 </style>
 
@@ -19,7 +19,7 @@
   <div>
   <Events/>
   
-  <div class="mt-5 mb-5 grid grid-cols-2 gap-4 md:gap-6 lg:grid-cols-3">
+  <div class="mt-5 mb-5 grid gap-4 md:gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
        <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
           <Card img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
               <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>

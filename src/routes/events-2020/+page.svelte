@@ -6,11 +6,11 @@
 
 <style>
   .card{
-    transition: transform 0.3s;
+    transition: transform 0.2s;
   }
 
   .card:hover{
-    transform:scale(1.2)
+    transform:scale(1.1)
   }
 </style>
 
