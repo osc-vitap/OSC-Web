@@ -75,7 +75,13 @@
 				</div>
 				<!-- Hamburger Menu  -->
 				<div>
-
+					<input
+						aria-hidden="true"
+						type="checkbox"
+						name="toggle_nav"
+						class="hidden peer"
+						checked={open}
+					/>	
 					<div class="md:hidden">
 						<label
 							role="presentation"
@@ -106,19 +112,56 @@
 									transform: ${open ? "rotate(-45deg) translate(0, -0.55rem)" : ""}
 								`}>
 							</div>
-							<input
-								aria-hidden="true"
-								type="checkbox"
-								name="toggle_nav"
-								class="hidden peer"
-								checked={open}
-							/>
-							<div
-								aria-hidden="true"
-								class="fixed z-10 inset-0 mt-16 h-screen w-screen bg-zinc-800/90 backdrop-blur-noise-lg origin-bottom scale-y-0 transition duration-500 peer-checked:origin-top peer-checked:scale-y-100">
-								
-							</div>
 						</label>
+					</div>
+								
+					<div
+						class="fixed inset-0 mt-16 h-screen w-screen bg-slate-500/70 
+						backdrop-blur-2xl origin-bottom scale-y-0 transition duration-500 
+						peer-checked:origin-top peer-checked:scale-y-100">
+					</div>
+					<div class="p-8 gap-6 flex-col z-20 flex-wrap rounded-3xl border 
+					border-gray-100 bg-white shadow-2xl shadow-gray-600/10 justify-start
+					w-full invisible opacity-0 translate-y-1  absolute top-full left-0 
+					transition-all duration-300 scale-95 origin-top peer-checked:scale-100 
+					peer-checked:opacity-100 peer-checked:visible">
+						<div class="flex justify-center item-center text-gray-600 dark:text-gray-300 lg:pr-4 w-full">
+							<ul class="">
+							<li>
+								<a
+								href="#_"
+								class=""
+								>
+								<span>About</span>
+								</a>
+							</li>
+							<li>
+								<a
+								href="#_"
+								class=""
+								>
+								<span>Events</span>
+								</a>
+							</li>
+							<li>
+								<a
+								href="#_"
+								class=""
+								>
+								<span>Team</span>
+								</a>
+							</li>
+							<li>
+								<a
+								href="#_"
+								target="_blank"
+								class=""
+								>
+								<span>Contact</span>
+								</a>
+							</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			
