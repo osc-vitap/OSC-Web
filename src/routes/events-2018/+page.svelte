@@ -32,30 +32,6 @@
               </Badge>
             </Card>
           </div>     
-
-
-         <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-            <Card img="https://oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Cyber Syndicate</h5>
-                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-6">
-                  OSC organized a thrilling CTF event, challenging participants to navigate through cybersecurity puzzles and capture the flag.
-                </p>
-                <Badge color="dark">
-                  Jan 21, 2023 | 4 PM
-                </Badge>
-              </Card>
-          </div>
-          <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-            <Card img="src\images\GDSC.jpg">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SDG Open Hack</h5>
-              <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-6">
-                SDG Open Hack united minds and technology, fostering collaborative solutions for a sustainable future.
-              </p>
-              <Badge color="dark">
-                Mar 12, 2023 | 10 AM
-              </Badge>
-            </Card>
-          </div>
           
            
 
