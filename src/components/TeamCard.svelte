@@ -5,7 +5,7 @@
   export let link = "";
 </script>
 
-<div class="mx-auto max-w-5xl px-4 py-4">
+<div class="mx-auto max-w-screen-xl px-4 py-4">
 <a href={link} target="_blank">
   <section class="rounded-lg backdrop-blur-3xl  drop-shadow-2xl p-3">
     <div class="grid grid-cols-1 gap-5 sm:grid-cols-3 sm:items-center sm:min-h-[75px]">

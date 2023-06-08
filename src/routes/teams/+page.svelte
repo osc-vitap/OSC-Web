@@ -76,14 +76,14 @@
   ];
 </script>
 
-<div class="">
+<div class=" w-full ">
+  <div class="text-start flex justify-between">
   <section>
     <div class=" px-4 py-12 sm:px-6 lg:px-8">
-      <div class="text-5xl font-extrabold text-black py-12 lg:px-4">
+      <div class="text-5xl font-extrabold text-black py-12  lg:px-4">
         Our Team
       </div>
-      <div class="items-center text-center flex justify-center">
-        <ul class="text- flex items-center gap-6 text-sm">
+        <ul class="text-center content-center flex items-center justify-center gap-6 text-sm">
           <li>
             <a href="/teams">
               <Button outline color="light">2023</Button>
@@ -120,7 +120,7 @@
         <link rel="stylesheet" href="css/rrssb.css" />
       </div>
       <div
-        class="mt-5 mb-5 grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-3 xl:gap-1 lg:gap-1 xl:grid-cols-4"
+        class="mt-5 mb-5 self-stretch  grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-3 xl:gap-1 lg:gap-1 xl:grid-cols-4"
       >
         {#each teamMembers as teamMember}
           <TeamCard
@@ -131,6 +131,6 @@
           />
         {/each}
       </div>
-    </div>
-  </section>
+    </section>
+  </div>
 </div>
