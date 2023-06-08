@@ -3,7 +3,6 @@
     import { Button } from 'flowbite-svelte';
     export let adminMembers = [
         {
-
             title:"Prof. Asish K. Dalai",
             disc:"Club Coordinator (Faculty)",
             image:"https://i.ibb.co/MMxvygZ/ashish/sir.png"
@@ -180,8 +179,6 @@
 
     ]
 </script>
-
-
 
 <section class="bg-transparent py-8">
 	<div class="mx-auto  px-4 py-2 sm:px-6 lg:px-8">
