@@ -23,7 +23,7 @@
             <ul class="text- flex items-center gap-6 text-sm">
                 
                 <li>
-                    <a href="/events">
+                    <a href="/events-2023">
                       <GradientButton outline color="purpleToBlue" >2023</GradientButton>
                     </a>
                 </li>
