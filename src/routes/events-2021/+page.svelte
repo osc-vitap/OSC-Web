@@ -31,33 +31,6 @@
               </Badge>
             </Card>
         </div>
-        <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-          <Card img="src\images\GDSC.jpg">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SDG Open Hack</h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-6">
-              SDG Open Hack united minds and technology, fostering collaborative solutions for a sustainable future.
-            </p>
-            <Badge color="dark">
-              Mar 12, 2023 | 10 AM
-            </Badge>
-          </Card>
-        </div>
-        <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-          <Card img="src\images\TechCastep4.jpg">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">TechCast Ep. 4</h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-1">
-              TechCast, OSC's online guest lecture series, transported students into the minds of industry experts, enriching their knowledge and inspiring innovation.
-            </p>
-            <Badge color="dark">
-              May 25, 2023 | 4 PM
-            </Badge>
-          </Card>
-        </div>     
-
-         
-
-       
-
         
      
   </div>
