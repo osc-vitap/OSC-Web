@@ -22,7 +22,7 @@
   <div class="mt-5 mb-5 grid grid-cols-2 gap-4 md:gap-6 lg:grid-cols-3">
 
     <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-      <Card img="src\images\GittyUp.jpg">
+      <Card img="src\images\GittyUp.webp">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">GittyUp</h5>
           <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-4">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa itaque consequuntur harum earum laudantium, nesciunt ea quo? 
@@ -33,7 +33,7 @@
         </Card>
     </div>
        <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-          <Card img="src\images\ReacBootCamp.jpg">
+          <Card img="src\images\ReactBootCamp.webp">
               <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">React Bootcamp</h5>
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-6">
                 React Bootcamp gave students a turbocharged ride into the world of web development
@@ -45,7 +45,7 @@
         </div>
 
         <div class="card" on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
-          <Card img="src\images\TexchEden.jpg">
+          <Card img="src\images\TechEden.webp">
               <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">TechEden</h5>
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight pb-8">
                 hunger games for coding not really but yes. There were less ppl.
