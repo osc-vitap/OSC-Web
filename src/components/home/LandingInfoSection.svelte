@@ -1,5 +1,5 @@
 <script>
-	import InfoSectionCard from './InfoSectionCard.svelte';
+	import InfoSectionCard from './LandingInfoCard.svelte';
 </script>
 
 <section>

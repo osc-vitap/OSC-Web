@@ -7,7 +7,7 @@
 
 <div class="px-4 py-4">
 <a href={link} target="_blank">
-  <section class="rounded-lg backdrop-blur-3xl  drop-shadow-2xl p-2">
+  <section class="rounded-lg bg-white  drop-shadow-2xl p-2">
     <div class="grid grid-cols-1 gap-5 sm:grid-cols-3 sm:items-center sm:min-h-[75px]">
       <img
         alt="OSC"

@@ -1,6 +1,6 @@
 <script>
   import { Footer, FooterCopyright, FooterLinkGroup, FooterLink, FooterBrand, FooterIcon } from 'flowbite-svelte'
-  import OscFullLogo from '../images/OSC_Full_Logo.svelte';
+  import OscFullLogo from '../../images/OSC_Full_Logo.svelte';
 
 </script>
 <footer aria-label="Site Footer" class="bg-white">

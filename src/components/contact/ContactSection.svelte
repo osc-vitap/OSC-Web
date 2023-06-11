@@ -29,14 +29,14 @@
 				</p>
 
 				<div class="mt-8">
-					<a href="" class="text-2xl font-bold text-zinc-600">+91 0151 475 4450 </a>
-					<address class="mt-2 not-italic text-white sm:text-zinc-600">282 Kevin Brook, Imogeneborough, CA 58517</address>
+					<a href="" class="text-2xl font-bold text-white">+91 0151 475 4450 </a>
+					<address class="mt-2 not-italic text-white sm:text-purple-400">282 Kevin Brook, Imogeneborough, CA 58517</address>
 				</div>
 			</div>
 
 			<div in:slide class="rounded-lg bg-white p-4 shadow-lg lg:col-span-3 lg:p-6 card"  on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
 				<form action="" class="space-y-4">
-					<h3 class="text-1xl font-bold  text-grey-300 sm:text-2xl">
+					<h3 class="text-1xl font-bold  text-zinc-700 sm:text-2xl">
 						Want to tell us Something?
 					</h3>
 					<div>
@@ -51,7 +51,7 @@
 
 					<div class="grid grid-cols-1 gap-4 sm:grid-cols-2" >
 						<div >
-							<div class="relative mb-6">
+							<div class="relative">
 							<div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
 								<svg aria-hidden="true" class="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path><path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path></svg>
 							</div>
@@ -60,7 +60,7 @@
 						</div>
 
 						<div>
-							<div class="relative mb-6">
+							<div class="relative">
 								<div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
 									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#6b7280" d="M19.95 21q-3.225 0-6.287-1.438t-5.425-3.8q-2.363-2.362-3.8-5.425T3 4.05q0-.45.3-.75t.75-.3H8.1q.35 0 .625.225t.325.575l.65 3.5q.05.35-.013.638T9.4 8.45L7 10.9q1.05 1.8 2.625 3.375T13.1 17l2.35-2.35q.225-.225.588-.337t.712-.063l3.45.7q.35.075.575.338T21 15.9v4.05q0 .45-.3.75t-.75.3Z"></path></svg>
 								</div>

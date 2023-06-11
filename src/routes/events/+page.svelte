@@ -1,10 +1,7 @@
 <script>
-    import Events from '../../components/Events.svelte';
+	import EventsPageHeader from '../../components/events/EventsPageHeader.svelte';
 </script>
 
-<div class="flex flex-col items-center justify-centre max-w-full pt-5 sm:pt-16">
-    <Events/>
+<div class="flex flex-col items-center justify-between max-w-full">
+	<EventsPageHeader />
 </div>
-
-
-
