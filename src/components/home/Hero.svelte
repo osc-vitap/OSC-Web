@@ -1,5 +1,4 @@
 <script>
-	import DiscordIcon from '../images/Discord_Icon.svelte';
 	import { Card, Button, Toggle } from "flowbite-svelte";
   let vCard = false;
 </script>

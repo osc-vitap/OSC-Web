@@ -1,7 +1,7 @@
 <script>
-import Hero from "../components/Hero.svelte";
-import LandingInfo from "../components/LandingInfo.svelte";
-import TestimonialSection from "../components/TestimonialSection.svelte";
+import Hero from "../components/home/Hero.svelte";
+import LandingInfo from "../components/home/LandingInfoSection.svelte";
+import TestimonialSection from "../components/home/TestimonialSection.svelte";
 </script>
 
 
