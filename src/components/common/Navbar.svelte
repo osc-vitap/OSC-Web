@@ -1,5 +1,5 @@
 <script>
-	import OscFullLogoWhite from '../images/OSC_Full_Logo_White.svelte';
+	import OscFullLogoWhite from '../../images/OSC_Full_Logo_White.svelte';
 	import {
 		Drawer,
 		Button,
@@ -139,7 +139,7 @@
 					</svelte:fragment>
 				</SidebarItem>
 
-				<SidebarItem label="Team" href="team" on:click={() => (hidden2 = true)}>
+				<SidebarItem label="Team" href="/team" on:click={() => (hidden2 = true)}>
 					<svelte:fragment slot="icon">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -154,7 +154,7 @@
 					</svelte:fragment>
 				</SidebarItem>
 
-				<SidebarItem label="Events" href="/evemts" on:click={() => (hidden2 = true)}>
+				<SidebarItem label="Events" href="/events" on:click={() => (hidden2 = true)}>
 					<svelte:fragment slot="icon">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
