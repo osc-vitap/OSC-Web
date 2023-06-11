@@ -6,7 +6,7 @@
 
 
 
-<div class="px-16 items-center justify-center">
+<div class="lg:px-16 items-center justify-center">
     <a
       href={link}
       class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
