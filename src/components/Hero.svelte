@@ -8,16 +8,14 @@
 <div class="flex items-center justify-between">
 	<section>
 		<div class="mx-auto max-w-screen-xl py-16 lg:flex lg:items-center">
-			<div class="max-w-xl">
+			<div class="max-w-xl ">
 				<h1 class="text-2xl font-extrabold  text-white sm:text-4xl">
-					Lorem Ipsum <br/>
-					<strong class="font-extrabold text-purple-100 "> Dolor sit amet. </strong>
+					Think Open, Think Free<br/>
+					<strong class="font-extrabold text-purple-100 "> & make cool sh*t </strong>
 				</h1>
 	
 				<p class="mt-4 text-xs sm:text-md/relaxed max-w-sm text-white">
-					Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor incididunt ut labore et
-					dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco tu. Tenetur a
-					sapiente delectus.
+					Open source community: Unleashing collaboration, innovation, and limitless possibilities, where code is shared, minds unite, and progress knows no bounds
 				</p>
 	
 				<div>
