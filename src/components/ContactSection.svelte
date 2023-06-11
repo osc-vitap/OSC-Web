@@ -1,18 +1,28 @@
-<!--
-  Heads up! 👋
+<script>
+	import{GradientButton} from 'flowbite-svelte';
+	import {fade, slide} from 'svelte/transition';
+	let isHovered = false;
+</script>
 
-  Plugins:
-    - @tailwindcss/forms
--->
+<style>
+	.card{
+	  transition: transform 0.3s;
+	}
+  
+	.card:hover{
+	  transform:scale(1.02)
+	}
+</style>
+
 
 <section>
-	<div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
+	<div class="mx-auto max-w-screen-xl px-4 py-20 sm:px-6 lg:px-8">
 		<div class="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
 			<div class="lg:col-span-2 lg:py-12">
 				<h1 class="text-2xl font-extrabold  text-white sm:text-4xl">
 					Contact Us.
 				</h1>
-				<p class="max-w-xl text-sm mt-0 sm:mt-2 text-white">
+				<p class="max-w-xl text-xs mt-0 sm:mt-2 text-white sm:text-sm">
 					At the same time, the fact that we are wholly owned and totally independent from
 					manufacturer and other group control gives you confidence that we will only recommend what
 					is right for you.
@@ -20,12 +30,11 @@
 
 				<div class="mt-8">
 					<a href="" class="text-2xl font-bold text-zinc-600">+91 0151 475 4450 </a>
-
-					<address class="mt-2 not-italic text-zinc-600">282 Kevin Brook, Imogeneborough, CA 58517</address>
+					<address class="mt-2 not-italic text-white sm:text-zinc-600">282 Kevin Brook, Imogeneborough, CA 58517</address>
 				</div>
 			</div>
 
-			<div class="rounded-lg bg-white p-4 shadow-lg lg:col-span-3 lg:p-6">
+			<div in:slide class="rounded-lg bg-white p-4 shadow-lg lg:col-span-3 lg:p-6 card"  on:mouseenter={() => isHovered = true} on:mouseleave={() => isHovered = false}>
 				<form action="" class="space-y-4">
 					<h3 class="text-1xl font-bold  text-grey-300 sm:text-2xl">
 						Want to tell us Something?
@@ -40,8 +49,8 @@
 						/>
 					</div>
 
-					<div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
-						<div>
+					<div class="grid grid-cols-1 gap-4 sm:grid-cols-2" >
+						<div >
 							<div class="relative mb-6">
 							<div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
 								<svg aria-hidden="true" class="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path><path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path></svg>
@@ -73,11 +82,16 @@
 						/>
 					</div>
 
+
 					<div class="mt-4">
 						<button
 							type="submit"
-							class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">
-							Send
+							class="inline-block w-full text-sm rounded-lg bg-purple-600 hover:bg-purple-900 px-2 py-2 font-medium text-white sm:w-auto"
+						>
+<div class="flex items-center justify-center">						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4">
+	<path d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
+</svg>
+<span class="ml-2">Send Message</span></div>
 						</button>
 					</div>
 				</form>

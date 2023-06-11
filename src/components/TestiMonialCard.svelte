@@ -1,34 +1,26 @@
 <script>
-  export let title = "Sample Title"
-  export let description = "Sample Description"
-  export let image = "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png"
-  export let url = "https://www.google.com"
-  export let name = "Sample Name"
-  export let job = "Sample Job"
+	export let title = 'Sample Title';
+	export let description = "lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minima dicta amet, molestiae aliquam incidunt suscipit recusandae labore ratione doloremque, architecto et illo minus quo tenetur ducimus, voluptatibus repellendus fuga aperiam vel ab! Ipsam corrupti blanditiis dolorum! Officia assumenda rem nam, eveniet enim ad inventore laudantium est illum voluptatem quis."
+	export let image = 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png';
+	export let url = 'https://www.google.com';
+	export let name = 'Sample Name';
+	export let job = 'Sample Job';
 </script>
 
-<figure
-class="flex flex-col justify-center items-center p-8 text-center bg-white rounded-t-lg border-b border-gray-200 md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-gray-800 dark:border-gray-700"
->
-<blockquote class="mx-auto mb-4 max-w-2xl text-gray-500 dark:text-gray-400">
-  <h3 class="text-md font-semibold text-gray-900 dark:text-white">
-    {title}
-  </h3>
-  <p class="my-4 font-light text-sm">
-    {description}
-  </p>
-</blockquote>
-<figcaption class="flex justify-center items-center space-x-3">
-  <img
-    class="w-9 h-9 rounded-full"
-    src={image}
-    alt={name}
-  />
-  <div class="space-y-0.5 font-medium dark:text-white text-left">
-    <div>{name}</div>
-    <div class="text-sm font-light text-gray-500 dark:text-gray-400">
-      {job}
-    </div>
-  </div>
-</figcaption>
-</figure>
+<div class="mb-8 sm:break-inside-avoid">
+	<blockquote class="rounded-xl bg-gray-50 p-6 shadow">
+		<h1 class="font-semibold">{title}</h1>
+		<p class="leading-relaxed text-gray-700">
+			{description}
+		</p>
+	</blockquote>
+
+	<a href={url} class="mt-4 flex items-center gap-4">
+		<img alt={name + "'s pfp"} src={image} class="h-12 w-12 rounded-full object-cover" />
+
+		<div class="text-sm">
+			<p class="font-medium">{name}</p>
+			<p class="mt-1">{job}</p>
+		</div>
+	</a>
+</div>
