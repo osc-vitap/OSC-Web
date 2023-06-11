@@ -142,31 +142,31 @@
         <nav aria-label="Footer Navigation - Services" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 1on1 Coaching
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Company Review
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Accounts Review
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 HR Consulting
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 SEO Optimisation
               </a>
             </li>
@@ -180,19 +180,19 @@
         <nav aria-label="Footer Navigation - Company" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 About
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Meet the Team
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Accounts Review
               </a>
             </li>
@@ -206,19 +206,19 @@
         <nav aria-label="Footer Navigation - Company" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Contact
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 FAQs
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Live Chat
               </a>
             </li>
@@ -232,25 +232,25 @@
         <nav aria-label="Footer Navigation - Legal" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Accessibility
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Returns Policy
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Refund Policy
               </a>
             </li>
 
             <li>
-              <a href="#" class="text-gray-700 transition hover:opacity-75">
+              <a href="/" class="text-gray-700 transition hover:opacity-75">
                 Hiring Statistics
               </a>
             </li>

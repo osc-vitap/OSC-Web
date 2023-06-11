@@ -46,7 +46,7 @@
 						</li>
 
 						<li>
-							<a class="text-gray-200 transition hover:text-gray-300/75" href="/team"> Team </a>
+							<a class="text-gray-200 transition hover:text-gray-300/75" href="/teams"> Team </a>
 						</li>
 
 						<li>
@@ -139,7 +139,7 @@
 					</svelte:fragment>
 				</SidebarItem>
 
-				<SidebarItem label="Team" href="team" on:click={() => (hidden2 = true)}>
+				<SidebarItem label="Team" href="/teams" on:click={() => (hidden2 = true)}>
 					<svelte:fragment slot="icon">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -154,7 +154,7 @@
 					</svelte:fragment>
 				</SidebarItem>
 
-				<SidebarItem label="Events" href="/evemts" on:click={() => (hidden2 = true)}>
+				<SidebarItem label="Events" href="/events" on:click={() => (hidden2 = true)}>
 					<svelte:fragment slot="icon">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
