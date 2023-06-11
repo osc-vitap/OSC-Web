@@ -1,6 +1,6 @@
 <script>
   import TeamCard from "../../components/TeamCard.svelte";
-  import { Button, GradientButton } from "flowbite-svelte";
+  import YearCard from "../../components/YearCard.svelte";
   export let adminMembers = [
     {
       title: "Prof. Asish K. Dalai",
@@ -176,6 +176,32 @@
       link: "https://www.linkedin.com/in/aditya-papriwal-110912223",
     },
   ];
+  export let yearCards = [
+    {
+      link: "/teams",
+      year: "2023",
+    },
+    {
+      link: "/teams-2022",
+      year: "2022",
+    },
+    {
+      link: "/teams-2021",
+      year: "2021",
+    },
+    {
+      link: "/teams-2020",
+      year: "2020",
+    },
+    {
+      link: "/teams-2019",
+      year: "2019",
+    },
+    {
+      link: "/teams-2018",
+      year: "2018",
+    },
+  ];
 </script>
 
 <div class="max-w-full flex items-center justify-center">
@@ -185,233 +211,12 @@
         <div class="text-5xl font-extrabold text-white py-12 lg:px-4">
           Our Team
         </div>
-        <div class="items-center text-center flex justify-center">
-          <ul
-            class="text-center grid grid-cols-2 content-center items-center justify-center gap-6 text-sm"
-          >
-            <li>
-              <div>
-                <a
-                  href="/teams"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2023</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-            <li>
-              <div>
-                <a
-                  href="/teams-2022"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2022</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-            <li>
-              <div>
-                <a
-                  href="/teams-2021"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2021</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-            <li>
-              <div>
-                <a
-                  href="/teams-2020"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2020</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-            <li>
-              <div>
-                <a
-                  href="/teams-2019"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2019</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-            <li>
-              <div>
-                <a
-                  href="/teams-2018"
-                  class="mt-5 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-bold text-white rounded-md shadow-2xl group"
-                >
-                  <span
-                    class="absolute inset-0 w-full h-full transition duration-300 ease-out opacity-0 bg-gradient-to-br from-pink-600 via-purple-700 to-teal-400 group-hover:opacity-100"
-                  />
-                  <!-- Top glass gradient -->
-                  <span
-                    class="absolute top-0 left-0 w-full bg-gradient-to-b from-white to-transparent opacity-5 h-1/3"
-                  />
-                  <!-- Bottom gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-full h-1/3 bg-gradient-to-t from-white to-transparent opacity-5"
-                  />
-                  <!-- Left gradient -->
-                  <span
-                    class="absolute bottom-0 left-0 w-4 h-full bg-gradient-to-r from-white to-transparent opacity-5"
-                  />
-                  <!-- Right gradient -->
-                  <span
-                    class="absolute bottom-0 right-0 w-4 h-full bg-gradient-to-l from-white to-transparent opacity-5"
-                  />
-                  <span
-                    class="absolute inset-0 w-full h-full border border-white rounded-md opacity-10"
-                  />
-                  <span
-                    class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
-                  />
-                  <span class="relative flex items-center">
-                    <span class=" text-xs sm:text-md">2018</span>
-                  </span>
-                </a>
-              </div>
-            </li>
-          </ul>
+        <div
+          class="items-center justify-center content-center text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6"
+        >
+          {#each yearCards as yearCard}
+            <YearCard link={yearCard.link} year={yearCard.year} />
+          {/each}
         </div>
         <div class="text-3xl font-extrabold text-white py-8 lg:px-4">
           Admin Department
