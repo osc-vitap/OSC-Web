@@ -187,7 +187,7 @@
         </div>
         <div class="items-center text-center flex justify-center">
           <ul
-            class="text-center content-center flex items-center justify-center gap-6 text-sm"
+            class="text-center grid grid-cols-2 content-center items-center justify-center gap-6 text-sm"
           >
             <li>
               <div>
