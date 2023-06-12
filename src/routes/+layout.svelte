@@ -826,7 +826,7 @@
 	});
 </script>
 
-<canvas id="gradient-canvas" data-js-darken-top data-transition-in class=" absolute left-0 right-0" />
+<canvas id="gradient-canvas" data-js-darken-top data-transition-in class=" absolute left-0 right-0 max-w-full"/>
 
 <!-- Show Banner only if club is recruiting -->
 {#if recruiting_status == true}
@@ -862,15 +862,3 @@
 <Navbar />
 <slot />
 <Footer />
-
-<style>
-	#gradient-canvas {
-		--gradient-color-1: #31f0c9;
-		--gradient-color-2: #b213f6;
-		--gradient-color-3: #98bdaf;
-		--gradient-color-4: #c29fcb;
-		z-index: -1;
-
-		-webkit-mask-image: radial-gradient(3000% 100% at bottom, transparent 20%, #fff 60%);
-	}
-</style>

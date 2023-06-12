@@ -10,7 +10,7 @@
 			<div class="max-w-xl ">
 				<h1 class="text-2xl font-extrabold  text-white sm:text-4xl">
 					Think Open, Think Free<br/>
-					<strong class="font-extrabold text-purple-100 "> & make cool sh*t </strong>
+					<strong class="font-extrabold text-purple-100 "> & make cool **it </strong>
 				</h1>
 	
 				<p class="mt-4 text-xs sm:text-md/relaxed max-w-sm text-white">
