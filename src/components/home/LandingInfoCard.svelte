@@ -6,7 +6,6 @@
 
 <!-- REFER: https://stackoverflow.com/questions/66069647/best-way-to-import-svg-icons-into-a-svelte-app -->
 
-
 <a
 	class="bg-white block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
 	href={url}
