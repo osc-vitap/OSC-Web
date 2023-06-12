@@ -1,7 +1,7 @@
 <div class="w-full max-w-screen-xl py-8 px-6 lg:px-8 sm:pt-24">
 	<div class="flex items-center justify-between">
 		<section>
-			<div class="mx-auto max-w-screen-xl py-8 lg:flex lg:items-center">
+			<div class="mx-auto max-w-screen-xl pt-16 sm:pt-0 lg:flex lg:items-center">
 				<div class="max-w-xl">
 					<h1 class="text-2xl font-extrabold text-white sm:text-4xl">
 						Meet our team

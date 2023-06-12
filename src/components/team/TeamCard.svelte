@@ -1,8 +1,8 @@
 <script>
-  export let image = "";
-  export let title = "";
-  export let disc = "";
-  export let link = "";
+  export let image = "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png";
+  export let title = "Sample Name";
+  export let disc = "lorem ipsum dolor sit amet."; 
+  export let link = "#";
 </script>
 
 <div class="px-4 py-4">
