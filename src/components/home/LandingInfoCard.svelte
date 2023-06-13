@@ -14,9 +14,9 @@
     <img src={TestIcon} class="h-6 w-6" />
   </span>
 
-  <h2 class="mt-2 font-bold">{title}</h2>
+  <h2 class="mt-2 font-bold text-zinc-800">{title}</h2>
 
-  <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
+  <p class="text-xs sm:mt-1 sm:text-sm sm:text-gray-600">
     {description}
   </p>
 </a>
