@@ -34,9 +34,10 @@
                 </div>
             {/each}
         </div>
-		{#each Events as evnt}
+		
             
             <div class="mt-5 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 max-w-full gap-2">
+                {#each Events as evnt}  
                 {#each YearWiseData[selectedYear][evnt] as gathering}
                     <EventCard
                      url={gathering.url}
@@ -48,7 +49,8 @@
 					 attendance={gathering.attandance}
                     />
                 {/each}
+                {/each}
             </div>
-        {/each}
+        
 	</div>
 </div>
