@@ -1,15 +1,16 @@
 <script>
+	import {fly,slide} from 'svelte/transition';
 	export let url = '#';
 	export let image = 'https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg';
 	export let title = 'Sample Title For Event';
 	export let sub_title = 'Sample Subtitle';
   	export let venue = 'Venue';
-	  export let date = 'Dec 21';
+	export let date = 'Dec 21';
   	export let attendance = '200+';
   	
 </script>
 
-<a href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
+<a in:fly href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
 	<img alt={title} src={image} class="h-40 w-full rounded-md object-cover" />
 
 	<div class="mt-2">
