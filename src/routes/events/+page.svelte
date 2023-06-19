@@ -1,8 +1,8 @@
 <script>
-	import EventCard from "../../components/events/EventCard.svelte";
-    import YearWiseData from "../../data/events.json"
+import EventCard from "../../components/events/EventCard.svelte";
+import YearWiseData from "../../data/events.json"
 
-    let selectedYear = 2023
+    let selectedYear = 2021
     let YearData = YearWiseData[selectedYear]
     let Events = Object.keys(YearData)
     console.log()
@@ -10,7 +10,7 @@
     function onYearClicked (year) {
         selectedYear = year
         YearData = YearWiseData[selectedYear]
-        Dept = Object.keys(YearData)
+        Events = Object.keys(YearData)
     }
 
     const Years = Object.keys(YearWiseData).reverse()
@@ -45,12 +45,12 @@
 					 title={gathering.title}
 					 sub_title={gathering.sub_title}
 					 venue={gathering.venue}
+                     date={gathering.date}
 					 data={gathering.data}
 					 attendance={gathering.attandance}
                     />
                 {/each}
                 {/each}
             </div>
-        
 	</div>
 </div>

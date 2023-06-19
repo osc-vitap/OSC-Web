@@ -5,7 +5,7 @@
 	export let title = 'Sample Title For Event';
 	export let sub_title = 'Sample Subtitle';
   	export let venue = 'Venue';
-	export let date = 'Dec 21';
+	export let date = 'Date';
   	export let attendance = '200+';
   	
 </script>
