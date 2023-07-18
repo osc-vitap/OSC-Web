@@ -1,0 +1,706 @@
+{
+    "2023":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Cyber Syndicate",
+                "sub_title":"Capture The Flag",
+                "venue":"AB1-G03,04",
+                "date":"21 Jan",
+                "data":"Cyberpunk",
+                "attandance":"5 Teams"
+
+            }
+        ]
+    },
+    "2022":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Getting Started with Networking",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"9 June",
+                "data":"Cyberpunk",
+                "attandance":"40"
+
+            }
+        ],
+
+        "Event2":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Docker Fundamentals",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"11 June",
+                "data":"Cyberpunk",
+                "attandance":"40"
+
+            }
+        ],
+        "Event3":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Executive Board 2022 Induction",
+                "sub_title":"Induction",
+                "venue":"Discord",
+                "date":"27 August",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        
+        "Event4":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/djzwSYG/Potrait-Banner.jpg",
+                "title":"GITTY UP: Learn Git & GitHub",
+                "sub_title":"Workshop",
+                "venue":"Auditorium",
+                "date":"27 Sept",
+                "data":"Cyberpunk",
+                "attandance":"400"
+
+            }
+        ],
+
+        "Event5":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
+                "title":"TechEden 2.0",
+                "sub_title":"Hackathon",
+                "venue":"CB-IIC",
+                "date":"10 Dec",
+                "data":"Cyberpunk",
+                "attandance":"17 Teams"
+
+            }
+        ],
+
+        "Event6":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Snyk Cybersecurity Challenge",
+                "sub_title":"Competition",
+                "venue":"CB-207",
+                "date":"10 Dec",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        "Event7":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Guest Lecture: Open Source Contributions",
+                "sub_title":"Guest Lecture",
+                "venue":"CB-IIC",
+                "date":"11 Dec",
+                "data":"Cyberpunk",
+                "attandance":"50"
+
+            }
+        ],
+        "Event8":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/cc3qjvq/React-Bootcamp.jpg",
+                "title":"React Bootcamp",
+                "sub_title":"Workshop",
+                "venue":"Newton Hall",
+                "date":"19 Dec",
+                "data":"Cyberpunk",
+                "attandance":"50"
+            }
+        ]
+    },
+    "2021":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Executive Board 2021 Induction",
+                "sub_title":"Induction",
+                "venue":"Discord",
+                "date":"23 May",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        "Event2":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Winter Season of Code 2021 (Level 0",
+                "sub_title":"Competition",
+                "venue":"GitHub",
+                "date":"27 July",
+                "data":"Cyberpunk",
+                "attandance":"70"
+
+            }
+        ],
+        "Event3":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"OpenSourceTalks Ep. 1",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"16 Aug",
+                "data":"Cyberpunk",
+                "attandance":"65"
+
+            }
+        ],
+        "Event4":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/4mjhXxY/Tech-Cast.png",
+                "title":"TechCast Ep. 2",
+                "sub_title":"Speaker Session",
+                "venue":"Online",
+                "date":"29 Aug",
+                "data":"Cyberpunk",
+                "attandance":"79"
+
+            }
+        ],
+        "Event5":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"OSC Quiz Anniversary",
+                "sub_title":"Online Quiz",
+                "venue":"Instagram",
+                "date":"30 Aug",
+                "data":"Cyberpunk",
+                "attandance":"25"
+
+            }
+        ],
+        "Event6":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Winter Season of Code 2021",
+                "sub_title":"Competition",
+                "venue":"GitHub+Discord",
+                "date":"1 Sept",
+                "data":"Cyberpunk",
+                "attandance":"89"
+
+            }
+        ],
+        "Event7":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/4mjhXxY/Tech-Cast.png",
+                "title":"TechCast Ep. 3",
+                "sub_title":"Speaker Session",
+                "venue":"Online",
+                "date":"3 Oct",
+                "data":"Cyberpunk",
+                "attandance":"75"
+
+            }
+        ],
+        "Event8":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Web Dev from Scratch",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"16 Nov",
+                "data":"Cyberpunk",
+                "attandance":"125"
+
+            }
+        ],
+        "Event9":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"OpenSourceTalks Ep. 2",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"26 Dec",
+                "data":"Cyberpunk",
+                "attandance":"80"
+
+            }
+        ],
+        "Event10":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"IdeaOryx",
+                "sub_title":"Hackathon",
+                "venue":"Devfolio+Online",
+                "date":"15 Jan",
+                "data":"Cyberpunk",
+                "attandance":"7 Teams"
+
+            }
+        ],
+        "Event11":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Web Hunt 4.0",
+                "sub_title":"Hackathon",
+                "venue":"-",
+                "date":"15 May",
+                "data":"Cyberpunk",
+                "attandance":"14 Teams"
+
+            }
+        ],
+        "Event12":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/RDN95HY/SFF.jpg",
+                "title":"Software Freedom Day 2022",
+                "sub_title":"OSC AnnualFest",
+                "venue":"-",
+                "date":"15 May",
+                "data":"Cyberpunk",
+                "attandance":"354"
+
+            }
+        ],
+        "Event13":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
+                "title":"TechEden",
+                "sub_title":"Hackathon",
+                "venue":"-",
+                "date":"25 April-2 May",
+                "data":"Cyberpunk",
+                "attandance":"13 Teams"
+
+            }
+        ]
+    },
+    "2020":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Executive Board 2020 Induction",
+                "sub_title":"Induction",
+                "venue":"Discord",
+                "date":"20 Sept",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        "Event2":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Hacktoberfest 2020 Online Meetup (MLH)",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"4 Oct",
+                "data":"Cyberpunk",
+                "attandance":"80"
+
+            }
+        ],
+        "Event3":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Git Series: Part 1",
+                "sub_title":"Workshop",
+                "venue":"Online",
+                "date":"8 Oct",
+                "data":"Cyberpunk",
+                "attandance":"135"
+
+            }
+        ],
+        "Event4":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Winter Season of Code 2020 (Level 0)",
+                "sub_title":"Competition",
+                "venue":"GitHub",
+                "date":"10 Oct",
+                "data":"Cyberpunk",
+                "attandance":"90"
+
+            }
+        ],
+        "Event5":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"IdeaOryx Phase 1",
+                "sub_title":"Competition",
+                "venue":"Online",
+                "date":"17 Oct",
+                "data":"Cyberpunk",
+                "attandance":"57"
+
+            }
+        ],
+        "Event6":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"IdeaOryx Finals",
+                "sub_title":"Competition",
+                "venue":"Online",
+                "date":"24 Oct",
+                "data":"Cyberpunk",
+                "attandance":"24"
+
+            }
+        ],
+        "Event7":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Computational Solar Physics",
+                "sub_title":"Guest Lecture",
+                "venue":"Online",
+                "date":"21 Nov",
+                "data":"Cyberpunk",
+                "attandance":"65"
+
+            }
+        ],
+        "Event8":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/4mjhXxY/Tech-Cast.png",
+                "title":"TechCast Ep. 1",
+                "sub_title":"TechTalk",
+                "venue":"Online",
+                "date":"27 Nov",
+                "data":"Cyberpunk",
+                "attandance":"140"
+
+            }
+        ],
+        "Event9":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Winter Season of Code 2020",
+                "sub_title":"Competition",
+                "venue":"Online+GitHub",
+                "date":"4 Dec-28 March",
+                "data":"Cyberpunk",
+                "attandance":"79"
+
+            }
+        ],
+        "Event10":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/4mjhXxY/Tech-Cast.png",
+                "title":"TechCast Ep.2",
+                "sub_title":"TechTalk",
+                "venue":"Online",
+                "date":"14 Feb",
+                "data":"Cyberpunk",
+                "attandance":"150"
+
+            }
+        ],
+        "Event11":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Web Hunt 3.0",
+                "sub_title":"Hackathon",
+                "venue":"RunTheWorld+Discord",
+                "date":"7 March",
+                "data":"Cyberpunk",
+                "attandance":"8 Teams"
+
+            }
+        ],
+        "Event12":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/RDN95HY/SFF.jpg",
+                "title":"Software Freedom Day 2021",
+                "sub_title":"OSC AnnualFest",
+                "venue":"RunTheWorld+Discord",
+                "date":"7 March",
+                "data":"Cyberpunk",
+                "attandance":"324"
+
+            }
+        ],
+        "Event13":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
+                "title":"TechEden",
+                "sub_title":"Hackathon",
+                "venue":"Discord",
+                "date":"25 April-2 May",
+                "data":"Cyberpunk",
+                "attandance":"136"
+
+            }
+        ]
+    },
+    "2019":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Induction 2019",
+                "sub_title":"Induction",
+                "venue":"Einstein Hall",
+                "date":"20 July",
+                "data":"Cyberpunk",
+                "attandance":"70"
+
+            }
+        ],
+        "Event2":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Open Source 101",
+                "sub_title":"Workshop",
+                "venue":"Einstein Hall",
+                "date":"20 July",
+                "data":"Cyberpunk",
+                "attandance":"50"
+
+            }
+        ], "Event3":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Git Ready!",
+                "sub_title":"Workshop",
+                "venue":"CSE Lab",
+                "date":"31 Aug",
+                "data":"Cyberpunk",
+                "attandance":"65"
+
+            }
+        ],
+        "Event4":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"HORCRUX ENIGMA",
+                "sub_title":"Competition",
+                "venue":"CSE Lab",
+                "date":"10 Sept",
+                "data":"Cyberpunk",
+                "attandance":"39"
+
+            }
+        ],
+        "Event5":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/Mh9NBmF/MLH.png",
+                "title":"MLH Learn",
+                "sub_title":"Workshop",
+                "venue":"ECE Lab",
+                "date":"10 Oct",
+                "data":"Cyberpunk",
+                "attandance":"85"
+
+            }
+        ],
+        "Event6":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Django (Session 1)",
+                "sub_title":"Workshop",
+                "venue":"CSE Lab",
+                "date":"23 Oct",
+                "data":"Cyberpunk",
+                "attandance":"90"
+
+            }
+        ],
+        "Event7":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Django (Session 2)",
+                "sub_title":"Workshop",
+                "venue":"CSE Lab",
+                "date":"30 Oct",
+                "data":"Cyberpunk",
+                "attandance":"110"
+
+            }
+        ],
+        "Event8":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/Mh9NBmF/MLH.png",
+                "title":"MLH Build",
+                "sub_title":"Hackathon",
+                "venue":"Newton Hall",
+                "date":"8 Dec",
+                "data":"Cyberpunk",
+                "attandance":"8 Teams"
+
+            }
+        ],
+        "Event9":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/K0CNxch/Flutter-Thumbnail.png",
+                "title":"Hands On Flutter",
+                "sub_title":"Workshop",
+                "venue":"CSE Lab",
+                "date":"14 Dec",
+                "data":"Cyberpunk",
+                "attandance":"78"
+
+            }
+        ],
+        "Event10":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/K0CNxch/Flutter-Thumbnail.png",
+                "title":"Hands On Flutter Session 2",
+                "sub_title":"Workshop",
+                "venue":"CSE Lab",
+                "date":"14 Feb",
+                "data":"Cyberpunk",
+                "attandance":"92"
+
+            }
+        ],
+        "Event11":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Web Hunt 2.0",
+                "sub_title":"Hackathon",
+                "venue":"AIR Center",
+                "date":"8 March",
+                "data":"Cyberpunk",
+                "attandance":"11 Teams"
+
+            }
+        ],
+        "Event12":[
+            {
+                "url":"#",
+                "image":"https://i.ibb.co/RDN95HY/SFF.jpg",
+                "title":"Software Freedom Day 2020",
+                "sub_title":"OSC AnnualFest",
+                "venue":"Auditorium",
+                "date":"8 March",
+                "data":"Cyberpunk",
+                "attandance":"300"
+
+            }
+        ]
+    },
+    "2018":{
+        "Event1":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Club Inauguration and Icebreaker",
+                "sub_title":"Meetup",
+                "venue":"AB1-319",
+                "date":"8 Aug",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        "Event2":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"SFD 2018",
+                "sub_title":"Guest Lecture",
+                "venue":"Newton Hall",
+                "date":"29 Sept",
+                "data":"Cyberpunk",
+                "attandance":"50"
+
+            }
+        ],
+        "Event3":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"The GNU Linux Ecosystem",
+                "sub_title":"Workshop",
+                "venue":"AB1-319",
+                "date":"20 Oct",
+                "data":"Cyberpunk",
+                "attandance":"30"
+
+            }
+        ],
+        "Event4":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Present Your Ideas Challenge 2018",
+                "sub_title":"Competition",
+                "venue":"Online",
+                "date":"24 Oct",
+                "data":"Cyberpunk",
+                "attandance":"Cyberpunk"
+
+            }
+        ],
+        "Event5":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Ready to GitGood?",
+                "sub_title":"Workshop",
+                "venue":"AB1-319",
+                "date":"27 Oct",
+                "data":"Cyberpunk",
+                "attandance":"Cyberpunk"
+
+            }
+        ],
+        "Event6":[
+            {
+                "url":"#",
+                "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
+                "title":"Think Smart Challenge 2019",
+                "sub_title":"Hackathon",
+                "venue":"EC Lab 1 & 2",
+                "date":"10 March, 2019",
+                "data":"Cyberpunk",
+                "attandance":"6 Teams"
+
+            }
+        ]
+    }
+
+}

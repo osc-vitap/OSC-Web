@@ -1,14 +1,16 @@
 <script>
+	import {fly,slide} from 'svelte/transition';
 	export let url = '#';
 	export let image = 'https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg';
 	export let title = 'Sample Title For Event';
 	export let sub_title = 'Sample Subtitle';
-  export let venue = 'Venue';
-  export let attendence = '200+'
-  export let duration = '2 hours'
+  	export let venue = 'Venue';
+	export let date = 'Date';
+  	export let attendance = '200+';
+  	
 </script>
 
-<a href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
+<a in:fly href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
 	<img alt={title} src={image} class="h-40 w-full rounded-md object-cover" />
 
 	<div class="mt-2">
@@ -42,26 +44,27 @@
 
 			<div class="inline-flex shrink-0 items-center gap-2">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="gray" class="w-4 h-4">
-          <path d="M4.5 6.375a4.125 4.125 0 118.25 0 4.125 4.125 0 01-8.25 0zM14.25 8.625a3.375 3.375 0 116.75 0 3.375 3.375 0 01-6.75 0zM1.5 19.125a7.125 7.125 0 0114.25 0v.003l-.001.119a.75.75 0 01-.363.63 13.067 13.067 0 01-6.761 1.873c-2.472 0-4.786-.684-6.76-1.873a.75.75 0 01-.364-.63l-.001-.122zM17.25 19.128l-.001.144a2.25 2.25 0 01-.233.96 10.088 10.088 0 005.06-1.01.75.75 0 00.42-.643 4.875 4.875 0 00-6.957-4.611 8.586 8.586 0 011.71 5.157v.003z" />
+          <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zM12.75 6a.75.75 0 00-1.5 0v6c0 .414.336.75.75.75h4.5a.75.75 0 000-1.5h-3.75V6z" clip-rule="evenodd" />
         </svg>
         
 
 				<div class="mt-1.5 sm:mt-0">
-					<p class="text-zinc-500">Attendence</p>
+					<p class="text-zinc-500">Date</p>
 
-					<p class="font-medium">{attendence}</p>
+					<p class="font-medium">{date}</p>
 				</div>
 			</div>
 
 			<div class="inline-flex shrink-0 items-center gap-2">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="gray" class="w-4 h-4">
-          <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zM12.75 6a.75.75 0 00-1.5 0v6c0 .414.336.75.75.75h4.5a.75.75 0 000-1.5h-3.75V6z" clip-rule="evenodd" />
+          <path d="M4.5 6.375a4.125 4.125 0 118.25 0 4.125 4.125 0 01-8.25 0zM14.25 8.625a3.375 3.375 0 116.75 0 3.375 3.375 0 01-6.75 0zM1.5 19.125a7.125 7.125 0 0114.25 0v.003l-.001.119a.75.75 0 01-.363.63 13.067 13.067 0 01-6.761 1.873c-2.472 0-4.786-.684-6.76-1.873a.75.75 0 01-.364-.63l-.001-.122zM17.25 19.128l-.001.144a2.25 2.25 0 01-.233.96 10.088 10.088 0 005.06-1.01.75.75 0 00.42-.643 4.875 4.875 0 00-6.957-4.611 8.586 8.586 0 011.71 5.157v.003z" />
         </svg>
+
         
 				<div class="mt-1.5 sm:mt-0">
-					<p class="text-zinc-500">Duration</p>
+					<p class="text-zinc-500">Attendance</p>
 
-					<p class="font-medium text-zinc-700">{duration}</p>
+					<p class="font-medium text-zinc-700">{attendance}</p>
 				</div>
 			</div>
 		</div>
