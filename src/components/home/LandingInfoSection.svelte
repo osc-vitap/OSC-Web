@@ -17,10 +17,11 @@
         </h1>
 
         <p class="mt-4 text-zinc-500 text-sm">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut vero
-          aliquid sint distinctio iure ipsum cupiditate? Quis, odit assumenda?
-          Deleniti quasi inventore, libero reiciendis minima aliquid tempora.
-          Obcaecati, autem.
+          We offer a platform that brings together enthusiasts of open source
+          technology, facilitating the sharing of knowledge and seamless
+          collaboration. Our mission is to cultivate a culture of productive
+          cooperation, enabling students to unite their efforts and embark on
+          collective exploration beyond the traditional classroom setting.
         </p>
 
         <a

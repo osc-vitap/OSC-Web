@@ -1,7 +1,7 @@
 <script>
   import TestIcon from "../../images/svg/airplane.svg";
   export let title = "Sample Title";
-  export let description = "lorem ipsum dolor sit amet consecteur.";
+  export let description = "Fuck VIT!";
   export let url = "#";
 </script>
 
