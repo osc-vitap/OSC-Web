@@ -1,5 +1,38 @@
 <script>
   import InfoSectionCard from "./LandingInfoCard.svelte";
+
+  const infoCardsData = [
+    {
+      title: "GITTY UP",
+      description: "A workshop to teach Git & GitHub.",
+      url: "#",
+    },
+    {
+      title: "Idea Oryx",
+      description: "An Ideathon to pitch your innovative ideas.",
+      url: "#",
+    },
+    {
+      title: "Bootcamps",
+      description: "A course that teaches a certain skill from scratch.",
+      url: "#",
+    },
+    {
+      title: "Cyber Syndicate",
+      description: "Annual Beginner Level Capture The Flag.",
+      url: "#",
+    },
+    {
+      title: "Tech Eden",
+      description: "A Hackathon for Tech Enthusiasts.",
+      url: "#",
+    },
+    {
+      title: "SFF",
+      description: "An Annual Fest to Celebrate Open-Source.",
+      url: "#",
+    },
+  ];
 </script>
 
 <section>
@@ -26,9 +59,9 @@
 
         <a
           href="https://forms.gle/fXRMynbsf1iVgJHz9"
-          class="mt-5 px-5 py-2.5 relative rounded group overflow-hidden font-medium bg-purple-50 text-purple-600 inline-block"
           target="_blank"
           rel="noopener noreferrer"
+          class="mt-5 px-5 py-2.5 relative rounded group overflow-hidden font-medium bg-purple-50 text-purple-600 inline-block"
         >
           <span
             class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-200 ease-out transform translate-y-0 bg-purple-600 group-hover:h-full opacity-90"
@@ -38,12 +71,13 @@
       </div>
 
       <div class="grid grid-cols-2 gap-4 sm:grid-cols-3">
-        <InfoSectionCard />
-        <InfoSectionCard />
-        <InfoSectionCard />
-        <InfoSectionCard />
-        <InfoSectionCard />
-        <InfoSectionCard />
+        {#each infoCardsData as cardData (cardData.title)}
+          <InfoSectionCard
+            title={cardData.title}
+            description={cardData.description}
+            url={cardData.url}
+          />
+        {/each}
       </div>
     </div>
   </div>
