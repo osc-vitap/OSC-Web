@@ -1,11 +1,11 @@
 <script>
-  export let title = "My Experience";
+  export let title = "Sample Title";
   export let description =
     "lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minima dicta amet, molestiae aliquam incidunt suscipit recusandae labore ratione doloremque, architecto et illo minus quo tenetur ducimus, voluptatibus repellendus fuga aperiam vel ab! Ipsam corrupti blanditiis dolorum! Officia assumenda rem nam, eveniet enim ad inventore laudantium est illum voluptatem quis.";
   export let image =
     "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png";
   export let url = "https://www.google.com";
-  export let name = "Name";
+  export let name = "Sample Name";
   export let job = "Sample Job";
 </script>
 
