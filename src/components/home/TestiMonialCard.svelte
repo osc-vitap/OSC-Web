@@ -17,7 +17,12 @@
     </p>
   </blockquote>
 
-  <a href={url} class="mt-4 flex items-center gap-4">
+  <a
+    href={url}
+    class="mt-4 flex items-center gap-4"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       alt={name + "'s pfp"}
       src={image}
