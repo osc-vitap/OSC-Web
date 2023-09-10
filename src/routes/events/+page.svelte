@@ -16,9 +16,9 @@ import YearWiseData from "../../data/events.json"
     const Years = Object.keys(YearWiseData).reverse()
 </script>	
 
-<div class="flex flex-col items-center justify-between max-w-full">
-	<div class=" px-4 py-12 sm:px-6 lg:px-8">
-        <div class="text-5xl font-extrabold text-white py-12 lg:px-4">
+<div class="flex flex-col items-center justify-between mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
+	<div class="py-12">
+        <div class="text-5xl font-extrabold text-white py-12">
             Events
         </div>
         <div class="yearButtons flex-wrap items-center justify-center content-center text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6 ">
