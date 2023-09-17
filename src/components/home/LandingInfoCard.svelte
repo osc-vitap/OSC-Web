@@ -1,6 +1,6 @@
 <script>
-  import TestIcon from "../../images/svg/airplane.svg";
-  export let title = "Sample Title";
+  import TestIcon from "../../images/svg/aca.svg";
+  export let title = "Title";
   export let description = "Fuck VIT!";
   export let url = "#";
 </script>

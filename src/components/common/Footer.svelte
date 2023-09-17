@@ -1,8 +1,15 @@
 <script>
-  import { Footer, FooterCopyright, FooterLinkGroup, FooterLink, FooterBrand, FooterIcon } from 'flowbite-svelte'
-  import OscFullLogo from '../../images/OSC_Full_Logo.svelte';
-
+  import {
+    Footer,
+    FooterCopyright,
+    FooterLinkGroup,
+    FooterLink,
+    FooterBrand,
+    FooterIcon,
+  } from "flowbite-svelte";
+  import OscFullLogo from "../../images/OSC_Full_Logo.svelte";
 </script>
+
 <footer aria-label="Site Footer" class="bg-white">
   <div
     class="max-w-screen-xl px-4 py-16 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:px-8"
@@ -15,12 +22,12 @@
       <ul class="flex justify-start gap-6 mt-8 sm:mt-0 sm:justify-end">
         <li>
           <a
-            href="/"
+            href="https://www.linkedin.com/company/oscvitap/"
             rel="noreferrer"
             target="_blank"
             class="text-gray-700 transition hover:opacity-75"
           >
-            <span class="sr-only">Facebook</span>
+            <span class="sr-only">LinkedIn</span>
 
             <svg
               class="w-6 h-6"
@@ -30,7 +37,7 @@
             >
               <path
                 fill-rule="evenodd"
-                d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
+                d="M21.75 0H2.25C1.009 0 0 1.009 0 2.25v19.5C0 22.991 1.009 24 2.25 24h19.5c1.241 0 2.25-1.009 2.25-2.25v-19.5C24 1.009 22.991 0 21.75 0zM7.5 20.25h-4.5v-12h4.5v12zM5.25 6.75h-.024C3.564 6.75 3 7.314 3 8.226v.024c0 .915.564 1.5 1.476 1.5h.024c.915 0 1.5-.585 1.5-1.5v-.024c0-.912-.585-1.476-1.476-1.476zM20.25 20.25h-4.5V14.4c0-1.585-.031-3.621-2.211-3.621-2.215 0-2.548 1.728-2.548 3.504v6.948h-4.5v-12h4.256v1.868h.06c.595-1.13 2.048-2.321 4.198-2.321 4.488 0 5.318 2.957 5.318 6.799v7.654z"
                 clip-rule="evenodd"
               />
             </svg>
@@ -39,7 +46,7 @@
 
         <li>
           <a
-            href="/"
+            href="https://www.instagram.com/osc.vitap/"
             rel="noreferrer"
             target="_blank"
             class="text-gray-700 transition hover:opacity-75"
@@ -63,7 +70,7 @@
 
         <li>
           <a
-            href="/"
+            href="https://twitter.com/osc_vitap"
             rel="noreferrer"
             target="_blank"
             class="text-gray-700 transition hover:opacity-75"
@@ -73,11 +80,13 @@
             <svg
               class="w-6 h-6"
               fill="currentColor"
-              viewBox="0 0 24 24"
+              viewBox="0 0 500 500"
               aria-hidden="true"
             >
               <path
-                d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
+                fill-rule="evenodd"
+                d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"
+                clip-rule="evenodd"
               />
             </svg>
           </a>
@@ -85,7 +94,7 @@
 
         <li>
           <a
-            href="/"
+            href="https://github.com/osc-vitap"
             rel="noreferrer"
             target="_blank"
             class="text-gray-700 transition hover:opacity-75"
@@ -109,12 +118,12 @@
 
         <li>
           <a
-            href="/"
+            href="https://www.youtube.com/@opensourcecommunityvit-ap6954"
             rel="noreferrer"
             target="_blank"
             class="text-gray-700 transition hover:opacity-75"
           >
-            <span class="sr-only">Dribbble</span>
+            <span class="sr-only">YouTube</span>
 
             <svg
               class="w-6 h-6"
@@ -124,7 +133,7 @@
             >
               <path
                 fill-rule="evenodd"
-                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 011.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.416 25.416 0 00-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.813 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.687 8.687 0 0112 3.475zm-3.633.803a53.896 53.896 0 013.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 014.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 01-2.19-5.705zM12 20.547a8.482 8.482 0 01-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.318 35.318 0 011.823 6.475 8.4 8.4 0 01-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.659-6.084 2.679-.423 5.022.271 5.314.369a8.468 8.468 0 01-3.655 5.715z"
+                d="M10.5 16.985v-8.97l7.483 4.483-7.483 4.487z"
                 clip-rule="evenodd"
               />
             </svg>
@@ -137,63 +146,51 @@
       class="grid grid-cols-1 gap-8 pt-8 border-t border-gray-100 sm:grid-cols-2 lg:grid-cols-4 lg:pt-16"
     >
       <div>
-        <p class="font-medium text-gray-900">Services</p>
+        <p class="font-medium text-gray-900">About Us</p>
 
         <nav aria-label="Footer Navigation - Services" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                1on1 Coaching
+              <a
+                href="https://community.mozilla.org/en/groups/open-source-community/"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Mozilla Community Portal
               </a>
             </li>
 
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Company Review
+              <a
+                href="https://www.mozilla.org/en-US/about/governance/policies/participation/"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Community Participation Guidelines
               </a>
             </li>
 
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Accounts Review
+              <a
+                href="https://www.oscvitap.org/ebopenings"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                EB Openings
               </a>
             </li>
 
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                HR Consulting
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                SEO Optimisation
-              </a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-
-      <div>
-        <p class="font-medium text-gray-900">Company</p>
-
-        <nav aria-label="Footer Navigation - Company" class="mt-6">
-          <ul class="space-y-4 text-sm">
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                About
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Meet the Team
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Accounts Review
+              <a
+                href="https://www.oscvitap.org/gallery"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Gallery
               </a>
             </li>
           </ul>
@@ -201,25 +198,40 @@
       </div>
 
       <div>
-        <p class="font-medium text-gray-900">Helpful Links</p>
+        <p class="font-medium text-gray-900">Contact Us</p>
 
         <nav aria-label="Footer Navigation - Company" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
+              <a
+                href="http://localhost:5173/contact"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
                 Contact
               </a>
             </li>
 
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                FAQs
+              <a
+                href="https://github.com/osc-vitap"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                GitHub Organization
               </a>
             </li>
 
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Live Chat
+              <a
+                href="https://discord.com/invite/DXgfsxXv6c"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Discord Server
               </a>
             </li>
           </ul>
@@ -227,31 +239,59 @@
       </div>
 
       <div>
-        <p class="font-medium text-gray-900">Legal</p>
+        <p class="font-medium text-gray-900">Events</p>
+
+        <nav aria-label="Footer Navigation - Company" class="mt-6">
+          <ul class="space-y-4 text-sm">
+            <li>
+              <a
+                href="https://techeden.oscvitap.org/"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                TechEden
+              </a>
+            </li>
+
+            <li>
+              <a
+                href="https://www.oscvitap.org/techcast"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Tech Cast Series
+              </a>
+            </li>
+
+            <li>
+              <a
+                href="http://localhost:5173/events"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                More
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+      <div>
+        <p class="font-medium text-gray-900">Chapter</p>
 
         <nav aria-label="Footer Navigation - Legal" class="mt-6">
           <ul class="space-y-4 text-sm">
             <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Accessibility
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Returns Policy
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Refund Policy
-              </a>
-            </li>
-
-            <li>
-              <a href="/" class="text-gray-700 transition hover:opacity-75">
-                Hiring Statistics
+              <a
+                href="https://wios.oscvitap.org/"
+                class="text-gray-700 transition hover:opacity-75"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Women in Open Source
               </a>
             </li>
           </ul>
@@ -260,7 +300,7 @@
     </div>
 
     <p class="text-xs text-gray-500">
-      &copy; 2022. Open Source Community. All rights reserved.
+      &copy; 2023. Open Source Community. All rights reserved.
     </p>
   </div>
 </footer>
