@@ -11,10 +11,10 @@
 </script>
 
 <a in:fly href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
-	<img alt={title} src={image} class="h-40 w-full rounded-md object-cover" />
+	<img alt={title} src={image} class="w-full rounded-md object-cover" />
 
 	<div class="mt-2">
-		<dl>
+		<dlv>
 			<div>
 				<dt class="sr-only">Event sub title</dt>
 
@@ -26,7 +26,7 @@
 
 				<dd class="font-semibold text-zinc-800">{title}</dd>
 			</div>
-		</dl>
+		</dlv>
 
 		<div class="mt-6 flex items-center gap-8 text-xs">
 			<div class="inline-flex shrink-0 items-center gap-2">
