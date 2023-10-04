@@ -16,6 +16,7 @@ import YearWiseData from "../../data/events.json"
     const Years = Object.keys(YearWiseData).reverse()
 </script>	
 
+
 <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
 	<div class="py-12">
         <div class="text-5xl font-extrabold text-white py-12">
@@ -36,7 +37,7 @@ import YearWiseData from "../../data/events.json"
         </div>
 		
             
-            <div class="mt-5 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2">
+            <div class="mt-5 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 max-w-full gap-2">
                 {#each Events as evnt}  
                 {#each YearWiseData[selectedYear][evnt] as gathering}
                     <EventCard
