@@ -1,798 +1,781 @@
 {
-    "2023" : {
-      "Admin Department" : [
-        {
-          "title": "Prof. Asish K. Dalai",
-          "disc": "Club Coordinator (Faculty)",
-          "image": "https://i.ibb.co/MMxvygZ/ashish.png"
-        },
-        {
-          "title": "A. Chandra Kiran Reddy",
-          "disc": "Community Lead",
-          "image": "https://i.ibb.co/PF0v6wk/chandra.jpg",
-          "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
-        },
-        {
-          "title": "Dhruv Jha",
-          "disc": "President",
-          "image": "https://i.ibb.co/K5g2m1v/MG-5541.jpg",
-          "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
-        },
-        {
-          "title": "Avinash Kumar",
-          "disc": "Director",
-          "image": "https://i.ibb.co/bbpzXMn/avinash.jpg",
-          "lin": "https://www.linkedin.com/in/theavinash-kumar/"
-        },
-        {
-          "title": "M. Anas Shakil Kazi",
-          "disc": "Secretery",
-          "image": "https://i.ibb.co/KyWvwvK/anas.jpg",
-          "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
-        },
-        {
-          "title": "Aryan Mohanty",
-          "disc": "Tech Lead",
-          "image": "https://i.ibb.co/M81PXN7/aryan.png",
-          "ink": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
-        },
-        {
-          "title": "R Hari Chandana",
-          "disc": "PR",
-          "image": "https://i.ibb.co/Jp3xbgN/chandana.png",
-          "link": "https://www.linkedin.com/in/hari-chandana-5a6a621a8/"
-        },
-        {
-          "title": "Soumyadip Chowdhuri",
-          "disc": "Designer",
-          "image": "https://i.ibb.co/GRK3Nz7/soumyadip.png",
-          "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
-        },
-        {
-          "title": "Isa Hasan",
-          "disc": "Outreach and Designer",
-          "image": "https://i.ibb.co/kgwHypY/isa.jpg",
-          "link": "https://www.linkedin.com/in/isa-hasan-59375a226/"
-        },
-        {
-          "title": "Sagnik Sarkar",
-          "disc": "Head of Editorial",
-          "image": "https://i.ibb.co/vstJH9B/sagnik.png",
-          "link": "https://www.linkedin.com/in/sagnik-sarkar-710?trk=contact-info"
-        },
-        {
-          "title": "Jai Gaurav",
-          "disc": "Treasurer",
-          "image": "https://i.ibb.co/k3w4HcQ/gaurav.jpg",
-          "link": "https://www.linkedin.com/in/jai-gaurav-092656228"
-        },
-        {
-          "title": "Apoorva Parashar",
-          "disc": "Head of Videography",
-          "image": "https://i.ibb.co/PwJ2tgQ/apoorva.png",
-          "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
-        }
-      ]
-    },
-  
-      "2022": {
-          "Admin Department" : [
-              {
-                  "title": "Prof. Asish K. Dalai",
-                  "disc": "Club Coordinator",
-                  "image": "https://i.ibb.co/MMxvygZ/ashish/sir.png"
-              },
-              {
-                  "title": "Rahul Alokkan",
-                  "disc": "Community Lead",
-                  "image": "https://i.ibb.co/sjwVdh9/rahul.png",
-                  "link": "https://www.linkedin.com/in/rahul-alokkan-16384b196/"
-              },
-              {
-                  "title": "Ojasva Jain",
-                  "disc": "President",
-                  "image": "https://i.ibb.co/p2hcgYv/ojasva.png",
-                  "link": "https://www.linkedin.com/in/ojasva-jain-9958071b2"
-              },
-              {
-                  "title": "Sai Pranay",
-                  "disc": "Director",
-                  "image": "https://i.ibb.co/M7LRvvZ/saipranay.png",
-                  "link": "https://www.linkedin.com/in/saipranay47/"
-              },
-              {
-                  "title": "Dhruv Jha",
-                  "disc": "Secretary",
-                  "image": "https://i.ibb.co/K5g2m1v/MG-5541.jpg",
-                  "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
-              },
-              {
-                  "title": "Aashish",
-                  "disc": "Head of PR",
-                  "image": "https://i.ibb.co/3fK4w2w/aashish.png",
-                  "link": "https://www.linkedin.com/in/aashis-rout-382b25229"
-              },
-              {
-                  "title": "Sharath Harikumar",
-                  "disc": "Treasurer",
-                  "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp",
-                  "link": "https://oscvitap.org/"
-              }
-          ],
-  
-          "Technical Department" : [
-              {
-                  "title": "Akhil",
-                  "disc": "Technical Lead",
-                  "image": "https://i.ibb.co/9hmFn9N/akhil.png",
-                  "link": "https://www.linkedin.com/in/akhilcodes"
-              },
-              {
-                  "title": "Aryan Mohanty",
-                  "disc": "Track Lead",
-                  "image": "https://i.ibb.co/M81PXN7/aryan.png",
-                  "link": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
-              },
-              {
-                  "title": "A. Loukya",
-                  "disc": "Developer",
-                  "image": "https://i.ibb.co/SPj3Vpb/loukya.png",
-                  "link": "https://www.linkedin.com/in/adepu-loukya-67a345221/"
-              },
-              {
-                  "title": "Chandra Kiran Reddy Avula",
-                  "disc": "DevOps Lead",
-                  "image": "https://i.ibb.co/PF0v6wk/chandra.jpg",
-                  "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
-              },
-              {
-                  "title": "Jai Gaurav",
-                  "disc": "Developer",
-                  "image": "https://i.ibb.co/k3w4HcQ/gaurav.jpg",
-                  "link": "https://www.linkedin.com/in/jai-gaurav-092656228/"
-              },
-              {
-                  "title": "Avinash Kumar",
-                  "disc": "Developer",
-                  "image": "https://i.ibb.co/bbpzXMn/avinash.jpg",
-                  "link": "https://www.linkedin.com/in/theavinash-kumar/"
-              },
-              {
-                  "title": "R Hari Chandana",
-                  "disc": "Developer",
-                  "image": "https://i.ibb.co/Jp3xbgN/chandana.png",
-                  "link": "https://www.linkedin.com/in/hari-chandana-5a6a621a8/"
-              },
-              {
-                  "title": "Vuppula Saikrishna",
-                  "disc": "Developer",
-                  "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp",
-                  "link": "https://oscvitap.org/"
-              }
-          ],
-  
-          "Design Department" : [
-              {
-                  "title": "Pooja",
-                  "disc": "Creative Lead",
-                  "image": "https://i.ibb.co/NSN27zq/image.png",
-                  "link": "https://www.linkedin.com/in/pooja-chowdhary-15501022b/"
-                },
-                {
-                  "title": "Vemu Namratha",
-                  "disc": "Editorial",
-                  "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp",
-                  "link": "https://www.linkedin.com/mwlite/in/namratha-vemu-5650841b6"
-                },
-                {
-                  "title": "Apoorva Parashar",
-                  "disc": "Head of videography",
-                  "image": "https://i.ibb.co/PwJ2tgQ/apoorva.png",
-                  "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
-                },
-                {
-                  "title": "M Sricharan",
-                  "disc": "Designer",
-                  "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp",
-                  "link": "https://oscvitap.org/"
-                },
-                {
-                  "title": "Soumyadip Chowdhuri",
-                  "disc": "Designer",
-                  "image": "https://i.ibb.co/GRK3Nz7/soumyadip.png",
-                  "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
-                }
-          ],
-  
-          "Event Department" : [
-              {
-                  "title": "Sai Eeshwar",
-                  "disc": "Event Lead",
-                  "image": "https://i.ibb.co/wcbjKvZ/image.png",
-                  "link": "https://www.linkedin.com/in/sai-eeshwar-d-5a590922b/"
-                },
-                {
-                  "title": "Muhammed Anas Shakil Kazi",
-                  "disc": "Organizer",
-                  "image": "https://i.ibb.co/vw0dPqd/anas.png",
-                  "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
-                },
-                {
-                  "title": "Pathuri Aleshita",
-                  "disc": "Organizer",
-                  "image": "https://i.ibb.co/dkJh4KC/image.png",
-                  "link": "https://oscvitap.org/"
-                },
-                {
-                  "title": "Varshitha Ramireddy",
-                  "disc": "Organizer",
-                  "image": "https://i.ibb.co/6wqbKv6/image.png",
-                  "link": "https://www.linkedin.com/in/varshitha-ramireddy-a3ab1222a/"
-                },
-                {
-                  "title": "Nishita Singh",
-                  "disc": "Organizer",
-                  "image": "https://i.ibb.co/4mL8JWZ/image.png",
-                  "link": "https://www.linkedin.com/in/nishita-singh-161471231"
-                },
-                {
-                  "title": "Sanjana Bhat",
-                  "disc": "Organizer",
-                  "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp",
-                  "link": "https://www.linkedin.com/in/sanjana-bhat-b5755b236/"
-                },
-                {
-                  "title": "Aditya Papriwal",
-                  "disc": "Head Of Marketing",
-                  "image": "https://i.ibb.co/q1HhR52/image.png",
-                  "link": "https://www.linkedin.com/in/aditya-papriwal-110912223"
-                }
-          ]
+  "2023": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator (Faculty)",
+        "image": "/images/members/2023/Admin-Department/Prof-Asish-K-Dalai.webp"
       },
-  
-      "2021" : {
-          "Admin Department" : [
-            {
-              "title": "Prof. Asish K. Dalai",
-              "disc": "Club Coordinator (Faculty)",
-              "image": "https://i.ibb.co/MMxvygZ/ashish.png"
-            },
-            {
-              "title": "S Vijay Balaji",
-              "disc": "Community Lead",
-              "image": "https://i.ibb.co/7bMrgV0/image.png",
-              "link": "https://www.linkedin.com/in/svijayb/"
-            },
-            {
-              "title": "Datta Adithya G V",
-              "disc": "President",
-              "image": "https://i.ibb.co/zXn7Z3f/image.png",
-              "link": "https://www.linkedin.com/in/datta-adithya/"
-            },
-            {
-              "title": "Bhargavi Chada",
-              "disc": "Chairperson",
-              "image": "https://i.ibb.co/T0T0Mbc/image.png",
-              "link": "https://www.linkedin.com/in/bhargavi-chada/"
-            },
-            {
-              "title": "S.V. Harsha Vardhan",
-              "disc": "Director",
-              "image": "https://i.ibb.co/C0TvwDh/image.png",
-              "link": "https://www.linkedin.com/in/harshavardhan-samudrala-3ba66a216/"
-            },
-            {
-              "title": "Ojasva",
-              "disc": "Vice President",
-              "image": "https://i.ibb.co/p2hcgYv/ojasva.png",
-              "link": "https://www.linkedin.com/in/ojasva-jain-9958071b2"
-            },
-            {
-              "title": "Sai Pranay",
-              "disc": "Vice President",
-              "image": "https://i.ibb.co/M7LRvvZ/saipranay.png",
-              "link": "https://www.linkedin.com/in/saipranay47/"
-            },
-            {
-              "title": "Dhruv Jha",
-              "disc": "Secretary",
-              "image": "https://i.ibb.co/K5g2m1v/MG-5541.jpg",
-              "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
-            },
-            {
-              "title": "Lakshmi Teja P",
-              "disc": "Treasurer",
-              "image": "https://i.ibb.co/KKgb8mh/image.png",
-              "link": "https://www.linkedin.com/in/lakshmi-teja-bb45861a1/"
-            },
-            {
-              "title": "Tarini",
-              "disc": "Head of public relations",
-              "image": "https://i.ibb.co/tM5GT5Z/image.png",
-              "link": "https://www.linkedin.com/in/tarinig/"
-            },
-            {
-              "title": "Ashutosh Patel",
-              "disc": "Track Lead",
-              "image": "https://i.ibb.co/h8Nrv03/image.png",
-              "link": "https://www.linkedin.com/in/ashutosh-patel-a828a4221/"
-            }
-          ],
-  
-          "Technical Department" : [
-            {
-              "title": "Krishna Raj",
-              "disc": "Technical Lead",
-              "image": "https://i.ibb.co/610YkLz/image.png",
-              "link": "https://www.linkedin.com/in/n-krishna-raj/"
-            },
-            {
-              "title": "Aryan Mohanty",
-              "disc": "Technical Lead",
-              "image": "https://i.ibb.co/M81PXN7/aryan.png",
-              "link": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
-            },
-            {
-              "title": "Ashutosh Patel",
-              "disc": "Track Lead",
-              "image": "https://i.ibb.co/h8Nrv03/image.png",
-              "link": "https://www.linkedin.com/in/ashutosh-patel-a828a4221/"
-            },
-            {
-              "title": "Mahesh Dasika",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/pf7LqWj/image.png",
-              "link": "https://www.linkedin.com/in/mahesh-d-178b681b8/"
-            },
-            {
-              "title": "A. Loukya",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/SPj3Vpb/loukya.png",
-              "link": "https://www.linkedin.com/in/adepu-loukya-67a345221/"
-            },
-            {
-              "title": "Sai Pranay",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/K5g2m1v/MG-5541.jpg",
-              "link": "https://www.linkedin.com/in/saipranay47/"
-            },
-            {
-              "title": "Jai Gaurav",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/k3w4HcQ/gaurav.jpg",
-              "link": "https://www.linkedin.com/in/jai-gaurav-092656228/"
-            },
-            {
-              "title": "Patil Krishna Reddy",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/5Gh1CS9/image.png",
-              "link": "https://www.linkedin.com/in/krishna-reddy-399093222/"
-            },
-            {
-              "title": "A. Chandra Kiran Reddy",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/PF0v6wk/chandra.jpg",
-              "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
-            },
-            {
-              "title": "Jaitra Venkiteela",
-              "disc": "Developer",
-              "image": "https://i.ibb.co/FX2w8fx/image.png",
-              "link": "https://oscvitap.org/"
-            }
-          ],
-  
-          "Event Department" : [
-            {
-              "title": "Maruti",
-              "disc": "Event Lead",
-              "image": "https://i.ibb.co/PYCSzmV/image.png",
-              "link": "https://www.linkedin.com/in/maruti-kameshwar-6b8846215/"
-            },
-            {
-              "title": "Chethan",
-              "disc": "Event Lead",
-              "image": "https://i.ibb.co/S6yZ0Bm/image.png",
-              "link": "https://www.linkedin.com/in/chethan-tirupati-523251194"
-            },
-            {
-              "title": "Rahul Alokkan",
-              "disc": "Event Lead",
-              "image": "https://i.ibb.co/sjwVdh9/rahul.png",
-              "link": "https://www.linkedin.com/in/rahul-alokkan-16384b196/"
-            },
-            {
-              "title": "Kaarthik",
-              "disc": "Head of Marketing",
-              "image": "https://i.ibb.co/h9ktpQc/image.png",
-              "link": "https://www.linkedin.com/in/kaarthik-patibandla-30017219a/"
-            },
-            {
-              "title": "Nishita Singh",
-              "disc": "Organiser",
-              "image": "https://i.ibb.co/4mL8JWZ/image.png",
-              "link": "https://oscvitap.org/"
-            },
-            {
-              "title": "Sai Eeshwar D",
-              "disc": "Organiser",
-              "image": "https://i.ibb.co/wcbjKvZ/image.png",
-              "link": "https://www.linkedin.com/in/sai-eeshwar-d-5a590922b/"
-            },
-            {
-              "title": "R. Soundarya",
-              "disc": "Organiser",
-              "image": "https://www.linkedin.com/in/soundarya-ravikumar-0819661b8/"
-            },
-            {
-              "title": "Aditya Papriwal",
-              "disc": "Head Of Marketing",
-              "image": "https://i.ibb.co/q1HhR52/image.png",
-              "link": "https://www.linkedin.com/in/aditya-papriwal-110912223"
-            }
-          ],
-  
-          "Design Department" : [
-            {
-              "title": "Sabareesh Reddy",
-              "disc": "Creative Lead",
-              "image": "https://i.ibb.co/bPTmPMr/image.png",
-              "link": "https://www.linkedin.com/in/sabareesh-reddy-chowkacherla-6834a6196/"
-            },
-            {
-              "title": "Sai Shaket Kalivarapu",
-              "disc": "Chief Editor",
-              "image": "https://i.ibb.co/BKRyyB2/image.png",
-              "link": "https://www.linkedin.com/in/sai-shaket-kalivarapu-51327618a/"
-            },
-            {
-              "title": "Abhiram",
-              "disc": "Head of videography",
-              "image": "https://i.ibb.co/nkTSXJT/image.png",
-              "link": "https://www.linkedin.com/in/abhiram-kalyan-883445190/"
-            },
-            {
-              "title": "Apoorva Parashar",
-              "disc": "Head of videography",
-              "image": "https://i.ibb.co/PwJ2tgQ/apoorva.png",
-              "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
-            },
-            {
-              "title": "Chirag",
-              "disc": "Documentation specialist",
-              "image": "https://i.ibb.co/jzv1qz7/image.png",
-              "link": "https://www.linkedin.com/in/chirag-gupta-8a16161ba"
-            },
-            {
-              "title": "Vadakattu Sreekar",
-              "disc": "Documentation specialist",
-              "image": "https://i.ibb.co/cNXYLPG/image.png",
-              "link": "https://www.linkedin.com/in/sreekar-vadakattu-8a54361b2/"
-            },
-            {
-              "title": "Sai Pranay",
-              "disc": "Designer",
-              "image": "https://i.ibb.co/M7LRvvZ/saipranay.png",
-              "link": "https://www.linkedin.com/in/saipranay47/"
-            },
-            {
-              "title": "Praseeda kallakuri",
-              "disc": "Designer",
-              "image": "https://i.ibb.co/rQn9GjN/image.png",
-              "link": "https://www.linkedin.com/in/praseeda-kallakuri-970334221/"
-            },
-            {
-              "title": "Pooja",
-              "disc": "Designer",
-              "image": "https://i.ibb.co/NSN27zq/image.png",
-              "link": "https://www.linkedin.com/in/pooja-chowdhary-15501022b/"
-            },
-            {
-              "title": "Sai Sreeja",
-              "disc": "Designer",
-              "image": "https://i.ibb.co/wSqJqTG/image.png",
-              "link": "https://www.linkedin.com/mwlite/in/sai-sreeja-64325721b"
-            },
-            {
-              "title": "Yash Daga",
-              "disc": "Designer",
-              "image": "https://i.ibb.co/qrCJbGY/image.png",
-              "link": "https://www.linkedin.com/in/yashdaga17/"
-            }
-          ],
-  
-          "HR Department" : [
-            {
-              "title": "Angel Maria Stanley",
-              "disc": "HR Lead",
-              "image": "https://i.ibb.co/Yh7G5xx/image.png",
-              "link": "https://www.linkedin.com/in/angel-stanly-218a0893/"
-            },
-            {
-              "title": "Muhammed Anas Shakil Kazi",
-              "disc": "HR Manager",
-              "image": "https://i.ibb.co/KyWvwvK/anas.jpg",
-              "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
-            },
-            {
-              "title": "Dollu Vakuladevi",
-              "disc": "HR Manager",
-              "image": "https://i.ibb.co/RbxyGs8/image.png",
-              "link": "https://www.linkedin.com/in/varshita-dollu-a3b43a197/"
-            },
-            {
-              "title": "Gudiseva Akhil",
-              "disc": "HR Manager",
-              "image": "https://i.ibb.co/K9LpT0M/image.png",
-              "link": "https://www.linkedin.com/in/gudiseva-akhil-000825222/"
-            },
-            {
-              "title": "Ruchith Reddy",
-              "disc": "HR Co-ordinator",
-              "image": "https://i.ibb.co/CwbYkBQ/image.png",
-              "link": "https://www.linkedin.com/in/ruchith-reddy-64ba6a22b/"
-            },
-            {
-              "title": "M S Shreya",
-              "disc": "HR Co-ordinator",
-              "image": "https://i.ibb.co/9wk11kN/image.png",
-              "link": "https://www.linkedin.com/in/shreya-m-s-1a0425220/"
-            }
-          ]
+      {
+        "title": "A. Chandra Kiran Reddy",
+        "disc": "Community Lead",
+        "image": "/images/members/2023/Admin-Department/A-Chandra-Kiran-Reddy.webp",
+        "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
       },
-  
-      "2020" : {
-        "Admin Department" : [
-          {
-            "title": "Prof. Asish K. Dalai",
-            "disc": "Club Coordinator (Faculty)",
-            "image": "https://i.ibb.co/MMxvygZ/ashish.png"
-          },
-          {
-            "title": "Krishna Akhil A.",
-            "disc": "Community Leader",
-            "image": "https://i.ibb.co/FBZZSNB/image.png"
-          },
-          {
-            "title": "Somsubro Banerjee",
-            "disc": "Campus Club Captain",
-            "image": "https://i.ibb.co/L6VFFCK/image.png"
-          },
-          {
-            "title": "Mohammad Abdul Razzaq",
-            "disc": "President",
-            "image": "https://i.ibb.co/HHKjpcF/image.png"
-          },
-          {
-            "title": "Shashaank Babu R",
-            "disc": "Chairman",
-            "image": "https://i.ibb.co/T4L5THH/image.png"
-          },
-          {
-            "title": "Aman Rangapur",
-            "disc": "Director",
-            "image": "https://i.ibb.co/Yph1s3H/image.png"
-          },
-          {
-            "title": "G V Datta Adithya",
-            "disc": "Vice President",
-            "image": "https://i.ibb.co/zXn7Z3f/image.png"
-          },
-          {
-            "title": "Vijay Balaji",
-            "disc": "Vice President",
-            "image": "https://i.ibb.co/7bMrgV0/image.png"
-          },
-          {
-            "title": "Rakesh Ranjan",
-            "disc": "Secretary",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          },
-          {
-            "title": "Jaswanthi Boppisetty",
-            "disc": "Treasurer",
-            "image": "https://i.ibb.co/Mg2wLZ6/image.pngh"
-          }
-        ],
-  
-        "Technical Department" : [
-          {
-            "title": "Jayakumar MHK",
-            "disc": "Technical Lead",
-            "image": "https://i.ibb.co/zPPWrgm/image.png"
-          },
-          {
-            "title": "Adarsh Srivastava",
-            "disc": "Technical Lead",
-            "image": "https://i.ibb.co/xmzvR6h/image.png"
-          },
-          {
-            "title": "Amit Kumar Sahu",
-            "disc": "Track Lead",
-            "image": "https://i.ibb.co/R2RzJrY/image.png"
-          },
-          {
-            "title": "Sai Pranay",
-            "disc": "Track Lead (Web)",
-            "image": "https://i.ibb.co/M7LRvvZ/saipranay.png"
-          }
-        ],
-  
-        "Event Department" : [
-          {
-            "title": "Navya Katakam",
-            "disc": "Event Manager",
-            "image": "https://i.ibb.co/ch8jBgy/image.png"
-          },
-          {
-            "title": "Sanket Ashok Mahadik",
-            "disc": "Event Lead",
-            "image": "https://i.ibb.co/c3C4K2C/image.png"
-          },
-          {
-            "title": "S V Harshavardhan",
-            "disc": "Public Relations",
-            "image": "https://i.ibb.co/C0TvwDh/image.png"
-          }
-        ],
-  
-        "Design Department" : [
-          {
-            "title": "Bhavana Mokkapati",
-            "disc": "Editorial Lead",
-            "image": "https://i.ibb.co/pLkmZ9g/image.png"
-          },
-          {
-            "title": "Abhay Chaudhary",
-            "disc": "Graphic Designer",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          },
-          {
-            "title": "Terala Srujan",
-            "disc": "Graphic Designer",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          },
-          {
-            "title": "Gunotham Solanki",
-            "disc": "Head of Videography",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          },
-          {
-            "title": "Saurav Menon",
-            "disc": "Social Media Relations",
-            "image": "https://i.ibb.co/Jyzr8bR/image.png"
-          },
-          {
-            "title": "Chirag Gupta",
-            "disc": "Content Writer",
-            "image": "https://i.ibb.co/jzv1qz7/image.png"
-          },
-          {
-            "title": "Angel Maria",
-            "dis": "Content Writer",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          }
-        ]
+      {
+        "title": "Dhruv Jha",
+        "disc": "President",
+        "image": "/images/members/2023/Admin-Department/Dhruv-Jha.webp",
+        "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
       },
-  
-      "2019" : {
-        "Admin Department" : [
-          {
-            "title": "Prof. Asish K. Dalai",
-            "disc": "Club Coordinator (Faculty)",
-            "image": "https://i.ibb.co/MMxvygZ/ashish.png"
-          },
-          {
-            "title": "Akhil Surendran",
-            "dis": "Community Leader",
-            "image": "https://i.ibb.co/9HQghgN/image.png"
-          },
-          {
-            "title": "Dedipyaman Das",
-            "disc": "Club Captain",
-            "image": "https://i.ibb.co/nL9dpFP/image.png"
-          },
-          {
-            "title": "Agnibha Chatterjee",
-            "disc": "Club Captain",
-            "image": "https://i.ibb.co/k1SKZ0G/image.png"
-          },
-          {
-            "title": "Ritwik Badola",
-            "disc": "Club Captain",
-            "image": "https://i.ibb.co/W0xLNd1/image.png"
-          },
-          {
-            "title": "Priyam Sahoo",
-            "disc": "Club Captain",
-            "image": "https://i.ibb.co/ChJdjd2/image.png"
-          },
-          {
-            "title": "Krishna Akhil A.",
-            "disc": "President",
-            "image": "https://i.ibb.co/FBZZSNB/image.png"
-          },
-          {
-            "title": "Somsubro Banerjee",
-            "disc": "Chairman",
-            "image": "https://i.ibb.co/y6WnL66/image.png"
-          },
-          {
-            "title": "Uday Shankar",
-            "disc": "Director",
-            "image": "https://i.ibb.co/7tgPGgN/image.png"
-          },
-          {
-            "title": "Jayat Saha",
-            "disc": "Vice President",
-            "image": "https://i.ibb.co/cF6kr51/image.png"
-          },
-          {
-            "titl": "Manju Bhargavi",
-            "disc": "Secretary",
-            "image": "https://i.ibb.co/wCVvHcw/image.png"
-          },
-          {
-            "title": "Rahul P",
-            "disc": "Technical Lead",
-            "image": "https://i.ibb.co/z2hTmCm/image.png"
-          }
-        ],
-  
-        "Event Department" : [
-          {
-            "title": "Datta Adithya",
-            "dis": "Event Lead",
-            "image": "https://i.ibb.co/zXn7Z3f/image.png"
-          },
-          {
-            "title": "Susmita Pal",
-            "disc": "Head of Marketing",
-            "image": "https://i.ibb.co/MgVbs0F/image.png"
-          },
-          {
-            "title": "S Vijay Balaji",
-            "disc": "Head, Public Relations",
-            "image": "https://i.ibb.co/7bMrgV0/image.png"
-          }
-        ],
-  
-        "Design Department" : [
-          {
-            "title": "Glen Paulson",
-            "disc": "Head of Design",
-            "image": "https://oscvitap.org/static/media/tba.7a6a6c54279a54d1977c.webp"
-          }
-        ]
+      {
+        "title": "Avinash Kumar",
+        "disc": "Director",
+        "image": "/images/members/2023/Admin-Department/Avinash-Kumar.webp",
+        "lin": "https://www.linkedin.com/in/theavinash-kumar/"
       },
-  
-      "2018" : {
-        "Admin Department" : [
-          {
-            "title": "Prof. Asish K. Dalai",
-            "disc": "Club Coordinator (Faculty)",
-            "image": "https://i.ibb.co/MMxvygZ/ashish.png"
-          },
-          {
-            "title": "Akhil Surendran",
-            "disc": "President",
-            "image": "https://i.ibb.co/9HQghgN/image.png"
-          },
-          {
-            "title": "Agnibha Chatterjee",
-            "disc": "Technical Lead",
-            "image": "https://i.ibb.co/k1SKZ0G/image.png"
-          },
-          {
-            "title": "Soumya Sudipta",
-            "disc": "Director",
-            "image": "https://i.ibb.co/hZ4djZT/image.png"
-          },
-          {
-            "title": "Somsubro Banerjee",
-            "disc": "Head of Public Relations",
-           "image": "https://i.ibb.co/L6VFFCK/image.png"
-          }
-        ]
+      {
+        "title": "M. Anas Shakil Kazi",
+        "disc": "Secretery",
+        "image": "/images/members/2023/Admin-Department/M-Anas-Shakil-Kazi.webp",
+        "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
+      },
+      {
+        "title": "Aryan Mohanty",
+        "disc": "Tech Lead",
+        "image": "/images/members/2023/Admin-Department/Aryan-Mohanty.webp",
+        "ink": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
+      },
+      {
+        "title": "R Hari Chandana",
+        "disc": "PR",
+        "image": "/images/members/2023/Admin-Department/R-Hari-Chandana.webp",
+        "link": "https://www.linkedin.com/in/hari-chandana-5a6a621a8/"
+      },
+      {
+        "title": "Soumyadip Chowdhuri",
+        "disc": "Designer",
+        "image": "/images/members/2023/Admin-Department/Soumyadip-Chowdhuri.webp",
+        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
+      },
+      {
+        "title": "Isa Hasan",
+        "disc": "Outreach and Designer",
+        "image": "/images/members/2023/Admin-Department/Isa-Hasan.webp",
+        "link": "https://www.linkedin.com/in/isa-hasan-59375a226/"
+      },
+      {
+        "title": "Sagnik Sarkar",
+        "disc": "Head of Editorial",
+        "image": "/images/members/2023/Admin-Department/Sagnik-Sarkar.webp",
+        "link": "https://www.linkedin.com/in/sagnik-sarkar-710?trk=contact-info"
+      },
+      {
+        "title": "Jai Gaurav",
+        "disc": "Treasurer",
+        "image": "/images/members/2023/Admin-Department/Jai-Gaurav.webp",
+        "link": "https://www.linkedin.com/in/jai-gaurav-092656228"
+      },
+      {
+        "title": "Apoorva Parashar",
+        "disc": "Head of Videography",
+        "image": "/images/members/2023/Admin-Department/Apoorva-Parashar.webp",
+        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
       }
+    ]
+  },
+  "2022": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator",
+        "image": "/images/members/2022/Admin-Department/Prof-Asish-K-Dalai.webp"
+      },
+      {
+        "title": "Rahul Alokkan",
+        "disc": "Community Lead",
+        "image": "/images/members/2022/Admin-Department/Rahul-Alokkan.webp",
+        "link": "https://www.linkedin.com/in/rahul-alokkan-16384b196/"
+      },
+      {
+        "title": "Ojasva Jain",
+        "disc": "President",
+        "image": "/images/members/2022/Admin-Department/Ojasva-Jain.webp",
+        "link": "https://www.linkedin.com/in/ojasva-jain-9958071b2"
+      },
+      {
+        "title": "Sai Pranay",
+        "disc": "Director",
+        "image": "/images/members/2022/Admin-Department/Sai-Pranay.webp",
+        "link": "https://www.linkedin.com/in/saipranay47/"
+      },
+      {
+        "title": "Dhruv Jha",
+        "disc": "Secretary",
+        "image": "/images/members/2022/Admin-Department/Dhruv-Jha.webp",
+        "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
+      },
+      {
+        "title": "Aashish",
+        "disc": "Head of PR",
+        "image": "/images/members/2022/Admin-Department/Aashish.webp",
+        "link": "https://www.linkedin.com/in/aashis-rout-382b25229"
+      },
+      {
+        "title": "Sharath Harikumar",
+        "disc": "Treasurer",
+        "image": "/images/members/2022/Admin-Department/Sharath-Harikumar.webp",
+        "link": "https://oscvitap.org/"
+      }
+    ],
+    "Technical Department": [
+      {
+        "title": "Akhil",
+        "disc": "Technical Lead",
+        "image": "/images/members/2022/Technical-Department/Akhil.webp",
+        "link": "https://www.linkedin.com/in/akhilcodes"
+      },
+      {
+        "title": "Aryan Mohanty",
+        "disc": "Track Lead",
+        "image": "/images/members/2022/Technical-Department/Aryan-Mohanty.webp",
+        "link": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
+      },
+      {
+        "title": "A. Loukya",
+        "disc": "Developer",
+        "image": "/images/members/2022/Technical-Department/A-Loukya.webp",
+        "link": "https://www.linkedin.com/in/adepu-loukya-67a345221/"
+      },
+      {
+        "title": "Chandra Kiran Reddy Avula",
+        "disc": "DevOps Lead",
+        "image": "/images/members/2022/Technical-Department/Chandra-Kiran-Reddy-Avula.webp",
+        "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
+      },
+      {
+        "title": "Jai Gaurav",
+        "disc": "Developer",
+        "image": "/images/members/2022/Technical-Department/Jai-Gaurav.webp",
+        "link": "https://www.linkedin.com/in/jai-gaurav-092656228/"
+      },
+      {
+        "title": "Avinash Kumar",
+        "disc": "Developer",
+        "image": "/images/members/2022/Technical-Department/Avinash-Kumar.webp",
+        "link": "https://www.linkedin.com/in/theavinash-kumar/"
+      },
+      {
+        "title": "R Hari Chandana",
+        "disc": "Developer",
+        "image": "/images/members/2022/Technical-Department/R-Hari-Chandana.webp",
+        "link": "https://www.linkedin.com/in/hari-chandana-5a6a621a8/"
+      },
+      {
+        "title": "Vuppula Saikrishna",
+        "disc": "Developer",
+        "image": "/images/members/2022/Technical-Department/Vuppula-Saikrishna.webp",
+        "link": "https://oscvitap.org/"
+      }
+    ],
+    "Design Department": [
+      {
+        "title": "Pooja",
+        "disc": "Creative Lead",
+        "image": "/images/members/2022/Design-Department/Pooja.webp",
+        "link": "https://www.linkedin.com/in/pooja-chowdhary-15501022b/"
+      },
+      {
+        "title": "Vemu Namratha",
+        "disc": "Editorial",
+        "image": "/images/members/2022/Design-Department/Vemu-Namratha.webp",
+        "link": "https://www.linkedin.com/mwlite/in/namratha-vemu-5650841b6"
+      },
+      {
+        "title": "Apoorva Parashar",
+        "disc": "Head of videography",
+        "image": "/images/members/2022/Design-Department/Apoorva-Parashar.webp",
+        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
+      },
+      {
+        "title": "M Sricharan",
+        "disc": "Designer",
+        "image": "/images/members/2022/Design-Department/M-Sricharan.webp",
+        "link": "https://oscvitap.org/"
+      },
+      {
+        "title": "Soumyadip Chowdhuri",
+        "disc": "Designer",
+        "image": "/images/members/2022/Design-Department/Soumyadip-Chowdhuri.webp",
+        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
+      }
+    ],
+    "Event Department": [
+      {
+        "title": "Sai Eeshwar",
+        "disc": "Event Lead",
+        "image": "/images/members/2022/Event-Department/Sai-Eeshwar.webp",
+        "link": "https://www.linkedin.com/in/sai-eeshwar-d-5a590922b/"
+      },
+      {
+        "title": "Muhammed Anas Shakil Kazi",
+        "disc": "Organizer",
+        "image": "/images/members/2022/Event-Department/Muhammed-Anas-Shakil-Kazi.webp",
+        "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
+      },
+      {
+        "title": "Pathuri Aleshita",
+        "disc": "Organizer",
+        "image": "/images/members/2022/Event-Department/Pathuri-Aleshita.webp",
+        "link": "https://oscvitap.org/"
+      },
+      {
+        "title": "Varshitha Ramireddy",
+        "disc": "Organizer",
+        "image": "/images/members/2022/Event-Department/Varshitha-Ramireddy.webp",
+        "link": "https://www.linkedin.com/in/varshitha-ramireddy-a3ab1222a/"
+      },
+      {
+        "title": "Nishita Singh",
+        "disc": "Organizer",
+        "image": "/images/members/2022/Event-Department/Nishita-Singh.webp",
+        "link": "https://www.linkedin.com/in/nishita-singh-161471231"
+      },
+      {
+        "title": "Sanjana Bhat",
+        "disc": "Organizer",
+        "image": "/images/members/2022/Event-Department/Sanjana-Bhat.webp",
+        "link": "https://www.linkedin.com/in/sanjana-bhat-b5755b236/"
+      },
+      {
+        "title": "Aditya Papriwal",
+        "disc": "Head Of Marketing",
+        "image": "/images/members/2022/Event-Department/Aditya-Papriwal.webp",
+        "link": "https://www.linkedin.com/in/aditya-papriwal-110912223"
+      }
+    ]
+  },
+  "2021": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator (Faculty)",
+        "image": "/images/members/2021/Admin-Department/Prof-Asish-K-Dalai.webp"
+      },
+      {
+        "title": "S Vijay Balaji",
+        "disc": "Community Lead",
+        "image": "/images/members/2021/Admin-Department/S-Vijay-Balaji.webp",
+        "link": "https://www.linkedin.com/in/svijayb/"
+      },
+      {
+        "title": "Datta Adithya G V",
+        "disc": "President",
+        "image": "/images/members/2021/Admin-Department/Datta-Adithya-G-V.webp",
+        "link": "https://www.linkedin.com/in/datta-adithya/"
+      },
+      {
+        "title": "Bhargavi Chada",
+        "disc": "Chairperson",
+        "image": "/images/members/2021/Admin-Department/Bhargavi-Chada.webp",
+        "link": "https://www.linkedin.com/in/bhargavi-chada/"
+      },
+      {
+        "title": "S.V. Harsha Vardhan",
+        "disc": "Director",
+        "image": "/images/members/2021/Admin-Department/SV-Harsha-Vardhan.webp",
+        "link": "https://www.linkedin.com/in/harshavardhan-samudrala-3ba66a216/"
+      },
+      {
+        "title": "Ojasva",
+        "disc": "Vice President",
+        "image": "/images/members/2021/Admin-Department/Ojasva.webp",
+        "link": "https://www.linkedin.com/in/ojasva-jain-9958071b2"
+      },
+      {
+        "title": "Sai Pranay",
+        "disc": "Vice President",
+        "image": "/images/members/2021/Admin-Department/Sai-Pranay.webp",
+        "link": "https://www.linkedin.com/in/saipranay47/"
+      },
+      {
+        "title": "Dhruv Jha",
+        "disc": "Secretary",
+        "image": "/images/members/2021/Admin-Department/Dhruv-Jha.webp",
+        "link": "https://www.linkedin.com/in/dhruv-jha-2002/"
+      },
+      {
+        "title": "Lakshmi Teja P",
+        "disc": "Treasurer",
+        "image": "/images/members/2021/Admin-Department/Lakshmi-Teja-P.webp",
+        "link": "https://www.linkedin.com/in/lakshmi-teja-bb45861a1/"
+      },
+      {
+        "title": "Tarini",
+        "disc": "Head of public relations",
+        "image": "/images/members/2021/Admin-Department/Tarini.webp",
+        "link": "https://www.linkedin.com/in/tarinig/"
+      },
+      {
+        "title": "Ashutosh Patel",
+        "disc": "Track Lead",
+        "image": "/images/members/2021/Admin-Department/Ashutosh-Patel.webp",
+        "link": "https://www.linkedin.com/in/ashutosh-patel-a828a4221/"
+      }
+    ],
+    "Technical Department": [
+      {
+        "title": "Krishna Raj",
+        "disc": "Technical Lead",
+        "image": "/images/members/2021/Technical-Department/Krishna-Raj.webp",
+        "link": "https://www.linkedin.com/in/n-krishna-raj/"
+      },
+      {
+        "title": "Aryan Mohanty",
+        "disc": "Technical Lead",
+        "image": "/images/members/2021/Technical-Department/Aryan-Mohanty.webp",
+        "link": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
+      },
+      {
+        "title": "Ashutosh Patel",
+        "disc": "Track Lead",
+        "image": "/images/members/2021/Technical-Department/Ashutosh-Patel.webp",
+        "link": "https://www.linkedin.com/in/ashutosh-patel-a828a4221/"
+      },
+      {
+        "title": "Mahesh Dasika",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/Mahesh-Dasika.webp",
+        "link": "https://www.linkedin.com/in/mahesh-d-178b681b8/"
+      },
+      {
+        "title": "A. Loukya",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/A-Loukya.webp",
+        "link": "https://www.linkedin.com/in/adepu-loukya-67a345221/"
+      },
+      {
+        "title": "Sai Pranay",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/Sai-Pranay.webp",
+        "link": "https://www.linkedin.com/in/saipranay47/"
+      },
+      {
+        "title": "Jai Gaurav",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/Jai-Gaurav.webp",
+        "link": "https://www.linkedin.com/in/jai-gaurav-092656228/"
+      },
+      {
+        "title": "Patil Krishna Reddy",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/Patil-Krishna-Reddy.webp",
+        "link": "https://www.linkedin.com/in/krishna-reddy-399093222/"
+      },
+      {
+        "title": "A. Chandra Kiran Reddy",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/A-Chandra-Kiran-Reddy.webp",
+        "link": "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
+      },
+      {
+        "title": "Jaitra Venkiteela",
+        "disc": "Developer",
+        "image": "/images/members/2021/Technical-Department/Jaitra-Venkiteela.webp",
+        "link": "https://oscvitap.org/"
+      }
+    ],
+    "Event Department": [
+      {
+        "title": "Maruti",
+        "disc": "Event Lead",
+        "image": "/images/members/2021/Event-Department/Maruti.webp",
+        "link": "https://www.linkedin.com/in/maruti-kameshwar-6b8846215/"
+      },
+      {
+        "title": "Chethan",
+        "disc": "Event Lead",
+        "image": "/images/members/2021/Event-Department/Chethan.webp",
+        "link": "https://www.linkedin.com/in/chethan-tirupati-523251194"
+      },
+      {
+        "title": "Rahul Alokkan",
+        "disc": "Event Lead",
+        "image": "/images/members/2021/Event-Department/Rahul-Alokkan.webp",
+        "link": "https://www.linkedin.com/in/rahul-alokkan-16384b196/"
+      },
+      {
+        "title": "Kaarthik",
+        "disc": "Head of Marketing",
+        "image": "/images/members/2021/Event-Department/Kaarthik.webp",
+        "link": "https://www.linkedin.com/in/kaarthik-patibandla-30017219a/"
+      },
+      {
+        "title": "Nishita Singh",
+        "disc": "Organiser",
+        "image": "/images/members/2021/Event-Department/Nishita-Singh.webp",
+        "link": "https://oscvitap.org/"
+      },
+      {
+        "title": "Sai Eeshwar D",
+        "disc": "Organiser",
+        "image": "/images/members/2021/Event-Department/Sai-Eeshwar-D.webp",
+        "link": "https://www.linkedin.com/in/sai-eeshwar-d-5a590922b/"
+      },
+      {
+        "title": "R. Soundarya",
+        "disc": "Organiser",
+        "image": "/images/members/2021/Event-Department/R-Soundarya.webp"
+      },
+      {
+        "title": "Aditya Papriwal",
+        "disc": "Head Of Marketing",
+        "image": "/images/members/2021/Event-Department/Aditya-Papriwal.webp",
+        "link": "https://www.linkedin.com/in/aditya-papriwal-110912223"
+      }
+    ],
+    "Design Department": [
+      {
+        "title": "Sabareesh Reddy",
+        "disc": "Creative Lead",
+        "image": "/images/members/2021/Design-Department/Sabareesh-Reddy.webp",
+        "link": "https://www.linkedin.com/in/sabareesh-reddy-chowkacherla-6834a6196/"
+      },
+      {
+        "title": "Sai Shaket Kalivarapu",
+        "disc": "Chief Editor",
+        "image": "/images/members/2021/Design-Department/Sai-Shaket-Kalivarapu.webp",
+        "link": "https://www.linkedin.com/in/sai-shaket-kalivarapu-51327618a/"
+      },
+      {
+        "title": "Abhiram",
+        "disc": "Head of videography",
+        "image": "/images/members/2021/Design-Department/Abhiram.webp",
+        "link": "https://www.linkedin.com/in/abhiram-kalyan-883445190/"
+      },
+      {
+        "title": "Apoorva Parashar",
+        "disc": "Head of videography",
+        "image": "/images/members/2021/Design-Department/Apoorva-Parashar.webp",
+        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
+      },
+      {
+        "title": "Chirag",
+        "disc": "Documentation specialist",
+        "image": "/images/members/2021/Design-Department/Chirag.webp",
+        "link": "https://www.linkedin.com/in/chirag-gupta-8a16161ba"
+      },
+      {
+        "title": "Vadakattu Sreekar",
+        "disc": "Documentation specialist",
+        "image": "/images/members/2021/Design-Department/Vadakattu-Sreekar.webp",
+        "link": "https://www.linkedin.com/in/sreekar-vadakattu-8a54361b2/"
+      },
+      {
+        "title": "Sai Pranay",
+        "disc": "Designer",
+        "image": "/images/members/2021/Design-Department/Sai-Pranay.webp",
+        "link": "https://www.linkedin.com/in/saipranay47/"
+      },
+      {
+        "title": "Praseeda kallakuri",
+        "disc": "Designer",
+        "image": "/images/members/2021/Design-Department/Praseeda-kallakuri.webp",
+        "link": "https://www.linkedin.com/in/praseeda-kallakuri-970334221/"
+      },
+      {
+        "title": "Pooja",
+        "disc": "Designer",
+        "image": "/images/members/2021/Design-Department/Pooja.webp",
+        "link": "https://www.linkedin.com/in/pooja-chowdhary-15501022b/"
+      },
+      {
+        "title": "Sai Sreeja",
+        "disc": "Designer",
+        "image": "/images/members/2021/Design-Department/Sai-Sreeja.webp",
+        "link": "https://www.linkedin.com/mwlite/in/sai-sreeja-64325721b"
+      },
+      {
+        "title": "Yash Daga",
+        "disc": "Designer",
+        "image": "/images/members/2021/Design-Department/Yash-Daga.webp",
+        "link": "https://www.linkedin.com/in/yashdaga17/"
+      }
+    ],
+    "HR Department": [
+      {
+        "title": "Angel Maria Stanley",
+        "disc": "HR Lead",
+        "image": "/images/members/2021/HR-Department/Angel-Maria-Stanley.webp",
+        "link": "https://www.linkedin.com/in/angel-stanly-218a0893/"
+      },
+      {
+        "title": "Muhammed Anas Shakil Kazi",
+        "disc": "HR Manager",
+        "image": "/images/members/2021/HR-Department/Muhammed-Anas-Shakil-Kazi.webp",
+        "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
+      },
+      {
+        "title": "Dollu Vakuladevi",
+        "disc": "HR Manager",
+        "image": "/images/members/2021/HR-Department/Dollu-Vakuladevi.webp",
+        "link": "https://www.linkedin.com/in/varshita-dollu-a3b43a197/"
+      },
+      {
+        "title": "Gudiseva Akhil",
+        "disc": "HR Manager",
+        "image": "/images/members/2021/HR-Department/Gudiseva-Akhil.webp",
+        "link": "https://www.linkedin.com/in/gudiseva-akhil-000825222/"
+      },
+      {
+        "title": "Ruchith Reddy",
+        "disc": "HR Co-ordinator",
+        "image": "/images/members/2021/HR-Department/Ruchith-Reddy.webp",
+        "link": "https://www.linkedin.com/in/ruchith-reddy-64ba6a22b/"
+      },
+      {
+        "title": "M S Shreya",
+        "disc": "HR Co-ordinator",
+        "image": "/images/members/2021/HR-Department/M-S-Shreya.webp",
+        "link": "https://www.linkedin.com/in/shreya-m-s-1a0425220/"
+      }
+    ]
+  },
+  "2020": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator (Faculty)",
+        "image": "/images/members/2020/Admin-Department/Prof-Asish-K-Dalai.webp"
+      },
+      {
+        "title": "Krishna Akhil A.",
+        "disc": "Community Leader",
+        "image": "/images/members/2020/Admin-Department/Krishna-Akhil-A.webp"
+      },
+      {
+        "title": "Somsubro Banerjee",
+        "disc": "Campus Club Captain",
+        "image": "/images/members/2020/Admin-Department/Somsubro-Banerjee.webp"
+      },
+      {
+        "title": "Mohammad Abdul Razzaq",
+        "disc": "President",
+        "image": "/images/members/2020/Admin-Department/Mohammad-Abdul-Razzaq.webp"
+      },
+      {
+        "title": "Shashaank Babu R",
+        "disc": "Chairman",
+        "image": "/images/members/2020/Admin-Department/Shashaank-Babu-R.webp"
+      },
+      {
+        "title": "Aman Rangapur",
+        "disc": "Director",
+        "image": "/images/members/2020/Admin-Department/Aman-Rangapur.webp"
+      },
+      {
+        "title": "G V Datta Adithya",
+        "disc": "Vice President",
+        "image": "/images/members/2020/Admin-Department/G-V-Datta-Adithya.webp"
+      },
+      {
+        "title": "Vijay Balaji",
+        "disc": "Vice President",
+        "image": "/images/members/2020/Admin-Department/Vijay-Balaji.webp"
+      },
+      {
+        "title": "Rakesh Ranjan",
+        "disc": "Secretary",
+        "image": "/images/members/2020/Admin-Department/Rakesh-Ranjan.webp"
+      },
+      {
+        "title": "Jaswanthi Boppisetty",
+        "disc": "Treasurer",
+        "image": "/images/members/2020/Admin-Department/Jaswanthi-Boppisetty.webp"
+      }
+    ],
+    "Technical Department": [
+      {
+        "title": "Jayakumar MHK",
+        "disc": "Technical Lead",
+        "image": "/images/members/2020/Technical-Department/Jayakumar-MHK.webp"
+      },
+      {
+        "title": "Adarsh Srivastava",
+        "disc": "Technical Lead",
+        "image": "/images/members/2020/Technical-Department/Adarsh-Srivastava.webp"
+      },
+      {
+        "title": "Amit Kumar Sahu",
+        "disc": "Track Lead",
+        "image": "/images/members/2020/Technical-Department/Amit-Kumar-Sahu.webp"
+      },
+      {
+        "title": "Sai Pranay",
+        "disc": "Track Lead (Web)",
+        "image": "/images/members/2020/Technical-Department/Sai-Pranay.webp"
+      }
+    ],
+    "Event Department": [
+      {
+        "title": "Navya Katakam",
+        "disc": "Event Manager",
+        "image": "/images/members/2020/Event-Department/Navya-Katakam.webp"
+      },
+      {
+        "title": "Sanket Ashok Mahadik",
+        "disc": "Event Lead",
+        "image": "/images/members/2020/Event-Department/Sanket-Ashok-Mahadik.webp"
+      },
+      {
+        "title": "S V Harshavardhan",
+        "disc": "Public Relations",
+        "image": "/images/members/2020/Event-Department/S-V-Harshavardhan.webp"
+      }
+    ],
+    "Design Department": [
+      {
+        "title": "Bhavana Mokkapati",
+        "disc": "Editorial Lead",
+        "image": "/images/members/2020/Design-Department/Bhavana-Mokkapati.webp"
+      },
+      {
+        "title": "Abhay Chaudhary",
+        "disc": "Graphic Designer",
+        "image": "/images/members/2020/Design-Department/Abhay-Chaudhary.webp"
+      },
+      {
+        "title": "Terala Srujan",
+        "disc": "Graphic Designer",
+        "image": "/images/members/2020/Design-Department/Terala-Srujan.webp"
+      },
+      {
+        "title": "Gunotham Solanki",
+        "disc": "Head of Videography",
+        "image": "/images/members/2020/Design-Department/Gunotham-Solanki.webp"
+      },
+      {
+        "title": "Saurav Menon",
+        "disc": "Social Media Relations",
+        "image": "/images/members/2020/Design-Department/Saurav-Menon.webp"
+      },
+      {
+        "title": "Chirag Gupta",
+        "disc": "Content Writer",
+        "image": "/images/members/2020/Design-Department/Chirag-Gupta.webp"
+      },
+      {
+        "title": "Angel Maria",
+        "dis": "Content Writer",
+        "image": "/images/members/2020/Design-Department/Angel-Maria.webp"
+      }
+    ]
+  },
+  "2019": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator (Faculty)",
+        "image": "/images/members/2019/Admin-Department/Prof-Asish-K-Dalai.webp"
+      },
+      {
+        "title": "Akhil Surendran",
+        "dis": "Community Leader",
+        "image": "/images/members/2019/Admin-Department/Akhil-Surendran.webp"
+      },
+      {
+        "title": "Dedipyaman Das",
+        "disc": "Club Captain",
+        "image": "/images/members/2019/Admin-Department/Dedipyaman-Das.webp"
+      },
+      {
+        "title": "Agnibha Chatterjee",
+        "disc": "Club Captain",
+        "image": "/images/members/2019/Admin-Department/Agnibha-Chatterjee.webp"
+      },
+      {
+        "title": "Ritwik Badola",
+        "disc": "Club Captain",
+        "image": "/images/members/2019/Admin-Department/Ritwik-Badola.webp"
+      },
+      {
+        "title": "Priyam Sahoo",
+        "disc": "Club Captain",
+        "image": "/images/members/2019/Admin-Department/Priyam-Sahoo.webp"
+      },
+      {
+        "title": "Krishna Akhil A.",
+        "disc": "President",
+        "image": "/images/members/2019/Admin-Department/Krishna-Akhil-A.webp"
+      },
+      {
+        "title": "Somsubro Banerjee",
+        "disc": "Chairman",
+        "image": "/images/members/2019/Admin-Department/Somsubro-Banerjee.webp"
+      },
+      {
+        "title": "Uday Shankar",
+        "disc": "Director",
+        "image": "/images/members/2019/Admin-Department/Uday-Shankar.webp"
+      },
+      {
+        "title": "Jayat Saha",
+        "disc": "Vice President",
+        "image": "/images/members/2019/Admin-Department/Jayat-Saha.webp"
+      },
+      {
+        "title": "Manju Bhargavi",
+        "disc": "Secretary",
+        "image": "/images/members/2019/Admin-Department/Manju-Bhargavi.webp"
+      },
+      {
+        "title": "Rahul P",
+        "disc": "Technical Lead",
+        "image": "/images/members/2019/Admin-Department/Rahul-P.webp"
+      }
+    ],
+    "Event Department": [
+      {
+        "title": "Datta Adithya",
+        "dis": "Event Lead",
+        "image": "/images/members/2019/Event-Department/Datta-Adithya.webp"
+      },
+      {
+        "title": "Susmita Pal",
+        "disc": "Head of Marketing",
+        "image": "/images/members/2019/Event-Department/Susmita-Pal.webp"
+      },
+      {
+        "title": "S Vijay Balaji",
+        "disc": "Head, Public Relations",
+        "image": "/images/members/2019/Event-Department/S-Vijay-Balaji.webp"
+      }
+    ],
+    "Design Department": [
+      {
+        "title": "Glen Paulson",
+        "disc": "Head of Design",
+        "image": "/images/members/2019/Design-Department/Glen-Paulson.webp"
+      }
+    ]
+  },
+  "2018": {
+    "Admin Department": [
+      {
+        "title": "Prof. Asish K. Dalai",
+        "disc": "Club Coordinator (Faculty)",
+        "image": "/images/members/2018/Admin-Department/Prof-Asish-K-Dalai.webp"
+      },
+      {
+        "title": "Akhil Surendran",
+        "disc": "President",
+        "image": "/images/members/2018/Admin-Department/Akhil-Surendran.webp"
+      },
+      {
+        "title": "Agnibha Chatterjee",
+        "disc": "Technical Lead",
+        "image": "/images/members/2018/Admin-Department/Agnibha-Chatterjee.webp"
+      },
+      {
+        "title": "Soumya Sudipta",
+        "disc": "Director",
+        "image": "/images/members/2018/Admin-Department/Soumya-Sudipta.webp"
+      },
+      {
+        "title": "Somsubro Banerjee",
+        "disc": "Head of Public Relations",
+        "image": "/images/members/2018/Admin-Department/Somsubro-Banerjee.webp"
+      }
+    ]
   }
+}
