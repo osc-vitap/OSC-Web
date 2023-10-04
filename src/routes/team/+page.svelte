@@ -16,17 +16,17 @@
     const Years = Object.keys(YearWiseData).reverse()
 </script>
 
-<div class="flex flex-col items-center justify-between mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-0">
+<div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
     <div class="py-12">
         <div class="text-5xl font-extrabold text-white py-12">
             Our Team
         </div>
-        <div class="yearButtons flex items-center justify-between text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6">
+        <div class="items-center justify-between text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6">
             {#each Years as year}
-                <div class="yearButtons flex items-center justify-center lg:px-10">
+                <div class="yearButtons flex items-center justify-center">
                     <label class="cursor-pointer">
                     <input type="radio" class="peer sr-only" name="year" on:chang e={() => { onYearClicked(year) }}/>
-                    <div class="flex items-center justify-between m-1 max-w-xl px-5 py-3 rounded-md bg-slate-900 text-white ring-2 ring-transparent transition-all scale-95 hover:scale-100 hover:shadow peer-checked:text-rose-600 peer-checked:ring-pink-400 peer-checked:ring-offset-2">
+                    <div class="flex items-center justify-center m-1 max-w-xl px-5 py-3 rounded-md bg-slate-200 font-medium text-slate-900 ring-2 ring-transparent transition-all scale-95 hover:scale-100 hover:shadow peer-checked:text-black peer-checked:ring-slate-700 peer-checked:ring-offset-2">
                         {year}
                         <svg aria-hidden="true" class="ml-2 w-3 h-3" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                     </div>
@@ -35,7 +35,7 @@
             {/each}
         </div>
         {#each Dept as dept}
-            <div class="mt-5 mb-5 self-stretch flex-col md:grid-cols-2 md:gap-3 xl:gap-1 lg:gap-1 xl:grid-cols-4">
+            <div class="my-5 self-stretch flex-col md:grid-cols-2 md:gap-3 xl:gap-1 lg:gap-1 xl:grid-cols-4">
                 <div class="text-3xl font-extrabold text-slate-800 py-8">
                     {dept}
                 </div>
