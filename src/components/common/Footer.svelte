@@ -19,7 +19,7 @@
         <OscFullLogo height="50" />
       </div>
 
-      <ul class="flex justify-start gap-6 mt-8 sm:mt-0 sm:justify-end">
+      <ul class="flex justify-center items-center gap-6 mt-8 sm:mt-0">
         <li>
           <a
             href="https://www.linkedin.com/company/oscvitap/"
@@ -80,7 +80,7 @@
             <svg
               class="w-6 h-6"
               fill="currentColor"
-              viewBox="0 0 500 500"
+              viewBox="0 -50 400 400"
               aria-hidden="true"
             >
               <path
