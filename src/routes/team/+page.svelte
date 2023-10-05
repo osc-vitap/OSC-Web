@@ -21,9 +21,9 @@
         <div class="text-5xl font-extrabold text-white py-12">
             Our Team
         </div>
-        <div class="flex-wrap items-center justify-between text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6">
+        <div class="flex-wrap items-center justify-center content-center text-sm grid grid-cols-3 md:grid-cols-4 xl:grid-cols-6">
             {#each Years as year}
-                <div class="flex items-center justify-between lg:px-10">
+                <div class="flex items-center justify-center lg:px-10">
                     <label class="cursor-pointer">
                     <input type="radio" class="peer sr-only" name="year" on:change={() => { onYearClicked(year) }}/>
                     <div class="flex items-center justify-center m-1 max-w-xl px-5 py-3 rounded-md bg-slate-200 font-medium text-slate-900 ring-2 ring-transparent transition-all scale-95 hover:scale-100 hover:shadow peer-checked:text-black peer-checked:ring-slate-700 peer-checked:ring-offset-2">
