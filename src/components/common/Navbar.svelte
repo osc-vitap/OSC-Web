@@ -65,7 +65,7 @@
 				<div class="flex items-center gap-4">
 					<div class="flex">
 						<a
-							href="#_"
+							href="/coming-soon"
 							class="hidden xs:block mr-2 md:mr-0 rounded px-5 py-1 overflow-hidden group border-2 border-white border-opacity-20 relative hover:bg-gradient-to-r hover:from-orange-500 hover:to-red-700 text-white hover:ring-2 hover:ring-offset-2 hover:ring-red-400 transition-all ease-out duration-300"
 						>
 							<span
