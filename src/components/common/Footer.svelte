@@ -127,27 +127,25 @@
               </a>
             </li>
 
-            <!-- <li>
+            <li>
               <a
-                href="https://www.oscvitap.org/ebopenings"
+                href="/coming-soon"
                 class="text-gray-700 transition hover:opacity-75"
                 rel="noreferrer"
-                target="_blank"
               >
                 EB Openings
               </a>
-            </li> -->
+            </li>
 
-            <!-- <li>
+            <li>
               <a
-                href="https://www.oscvitap.org/gallery"
+                href="/coming-soon"
                 class="text-gray-700 transition hover:opacity-75"
                 rel="noreferrer"
-                target="_blank"
               >
                 Gallery
               </a>
-            </li> -->
+            </li>
           </ul>
         </nav>
       </div>
