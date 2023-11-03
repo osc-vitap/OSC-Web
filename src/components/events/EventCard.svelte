@@ -11,24 +11,24 @@
 </script>
 
 <a in:fly href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
-	<img alt={title} src={image} class="w-full rounded-md object-cover" />
+    <img alt={title} src={image} class="w-full rounded-md object-cover" />
 
-	<div class="mt-2">
-		<dl>
-			<div>
-				<dt class="sr-only">Event sub title</dt>
+    <div class="mt-2">
+        <dl>
+            <div>
+                <dt class="sr-only">Event sub title</dt>
 
-				<dd class="text-sm text-zinc-500">{sub_title}</dd>
-			</div>
+                <dd class="text-sm text-zinc-500">{sub_title}</dd>
+            </div>
 
-			<div>
-				<dt class="sr-only">Event title</dt>
+            <div>
+                <dt class="sr-only">Event title</dt>
 
-				<dd class="font-semibold text-zinc-800">{title}</dd>
-			</div>
-		</dl>
+                <dd class="font-semibold text-zinc-800">{title}</dd>
+            </div>
+        </dl>
 
-		<div class="mt-6 flex flex-wrap items-center gap-8 text-xs">
+		<div class="mt-6 flex flex-wrap items-center gap-3 text-xs">
 			<div class="inline-flex shrink-0 items-center gap-2">
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="gray" class="w-4 h-4">
           <path fill-rule="evenodd" d="M3 2.25a.75.75 0 000 1.5v16.5h-.75a.75.75 0 000 1.5H15v-18a.75.75 0 000-1.5H3zM6.75 19.5v-2.25a.75.75 0 01.75-.75h3a.75.75 0 01.75.75v2.25a.75.75 0 01-.75.75h-3a.75.75 0 01-.75-.75zM6 6.75A.75.75 0 016.75 6h.75a.75.75 0 010 1.5h-.75A.75.75 0 016 6.75zM6.75 9a.75.75 0 000 1.5h.75a.75.75 0 000-1.5h-.75zM6 12.75a.75.75 0 01.75-.75h.75a.75.75 0 010 1.5h-.75a.75.75 0 01-.75-.75zM10.5 6a.75.75 0 000 1.5h.75a.75.75 0 000-1.5h-.75zm-.75 3.75A.75.75 0 0110.5 9h.75a.75.75 0 010 1.5h-.75a.75.75 0 01-.75-.75zM10.5 12a.75.75 0 000 1.5h.75a.75.75 0 000-1.5h-.75zM16.5 6.75v15h5.25a.75.75 0 000-1.5H21v-12a.75.75 0 000-1.5h-4.5zm1.5 4.5a.75.75 0 01.75-.75h.008a.75.75 0 01.75.75v.008a.75.75 0 01-.75.75h-.008a.75.75 0 01-.75-.75v-.008zm.75 2.25a.75.75 0 00-.75.75v.008c0 .414.336.75.75.75h.008a.75.75 0 00.75-.75v-.008a.75.75 0 00-.75-.75h-.008zM18 17.25a.75.75 0 01.75-.75h.008a.75.75 0 01.75.75v.008a.75.75 0 01-.75.75h-.008a.75.75 0 01-.75-.75v-.008z" clip-rule="evenodd" />
