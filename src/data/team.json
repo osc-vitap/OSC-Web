@@ -33,8 +33,34 @@
       {
         "title": "Aryan Mohanty",
         "disc": "Tech Lead",
-        "image": "/images/members/2023/Admin-Department/Aryan-Mohanty.webp",
+        "image": "images/members/2023/Tech-Department/Aryan Mohanty.png",
         "ink": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
+      },
+      {
+        "title": "Sanjay Bharathi",
+        "disc": "Creative Lead",
+        "image": "images/members/2023/Creative-Department/Sanjay Bharathi.png",
+        "link": "https://in.linkedin.com/in/sanjay-bharathi-a1b82121b"
+      },
+      
+      {
+        "title": "Soumyadip Chowdhuri",
+        "disc": "Game Dev Lead",
+        "image": "/images/members/2023/Admin-Department/Soumyadip-Chowdhuri.webp",
+        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
+      },
+      {
+        "title": "Sagnik Sarkar",
+        "disc": "Editorial Lead",
+        "image": "/images/members/2023/Admin-Department/Sagnik-Sarkar.webp",
+        "link": "https://www.linkedin.com/in/sagnik-sarkar-710?trk=contact-info"
+      },
+      
+      {
+        "title": "Apoorva Parashar",
+        "disc": "Videography Lead",
+        "image": "/images/members/2023/Admin-Department/Apoorva-Parashar.webp",
+        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
       },
       {
         "title": "R Hari Chandana",
@@ -43,35 +69,220 @@
         "link": "https://www.linkedin.com/in/hari-chandana-5a6a621a8/"
       },
       {
-        "title": "Soumyadip Chowdhuri",
-        "disc": "Designer",
-        "image": "/images/members/2023/Admin-Department/Soumyadip-Chowdhuri.webp",
-        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
-      },
-      {
         "title": "Isa Hasan",
-        "disc": "Outreach and Designer",
+        "disc": "HR",
         "image": "/images/members/2023/Admin-Department/Isa-Hasan.webp",
         "link": "https://www.linkedin.com/in/isa-hasan-59375a226/"
       },
-      {
-        "title": "Sagnik Sarkar",
-        "disc": "Head of Editorial",
-        "image": "/images/members/2023/Admin-Department/Sagnik-Sarkar.webp",
-        "link": "https://www.linkedin.com/in/sagnik-sarkar-710?trk=contact-info"
-      },
+      
       {
         "title": "Jai Gaurav",
         "disc": "Treasurer",
         "image": "/images/members/2023/Admin-Department/Jai-Gaurav.webp",
         "link": "https://www.linkedin.com/in/jai-gaurav-092656228"
       },
+      
       {
-        "title": "Apoorva Parashar",
-        "disc": "Head of Videography",
-        "image": "/images/members/2023/Admin-Department/Apoorva-Parashar.webp",
-        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
+        "title": "Tushar Chopra",
+        "disc": "Head of Marketing",
+        "image": "/images/members/2023/Admin-Department/Tushar Chopra.png",
+        "link": "https://www.linkedin.com/in/tushar-chopra-07525721b/"
       }
+    ], "Technical Department":[
+      {
+        "title": "Aryan Mohanty",
+        "disc": "Technical Lead",
+        "image": "images/members/2023/Tech-Department/Aryan Mohanty.png",
+        "link": "https://www.linkedin.com/in/aryan-mohanty-230160221"
+      },
+      {
+        "title": "Yash Jain",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/Yash Jain.png",
+        "link": "https://www.linkedin.com/in/yash-jain-the-insightful-muon/"
+      },
+      {
+        "title": "Samala Tarun",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/Obito.png",
+        "link": "https://www.linkedin.com/in/tarun-samala-47414a17b/"
+      },
+      {
+        "title": "Moghal Hazash Baig",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/Hashu.png",
+        "link": "https://www.linkedin.com/in/hazashbaig/"
+      },
+      {
+        "title": "JHEEL JOHARI",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/JHEEL JOHARI.png",
+        "link": "https://www.linkedin.com/in/jheel-johari-b097aa275"
+      },
+      {
+        "title": "AV Bharath Shanmugam",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/AV Bharath Shanmugam.png",
+        "link": "https://www.linkedin.com/in/bharath1910/"
+      },
+      {
+        "title": "Abhineet Saha",
+        "disc": "Developer",
+        "image": "images/members/2023/Tech-Department/Abhineet Saha.png",
+        "link": "https://www.linkedin.com/in/abhineet-saha-317472203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ], "Event Department" :[
+      {
+        "title": "Sai Eeshwar",
+        "disc": "Event Lead",
+        "image": "images/members/2023/Event-Department/Sai Eeshwar.png",
+        "link": "/"
+      },
+      {
+        "title": "Varshitha Ramireddy",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Varshitha Ramireddy.png",
+        "link": "https://www.linkedin.com/in/varshithar"
+      },
+      {
+        "title": "T. Anushna",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/T. Anushna.png",
+        "link": "https://www.linkedin.com/in/anushna-tanniru-6a7544251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "title": "Shubham Vinayak",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Shubham Vinayak.png",
+        "link": "https://www.linkedin.com/in/shubham-vinayak-b77141237"
+      },
+      {
+        "title": "Rishabh Vyas",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Rishabh Vyas.png",
+        "link": "https://linkedin.com/in/rishabh-vyas-1aa07a1a0/"
+      },
+      {
+        "title": "R Anmol Sai Ramchandran",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/R Anmol Sai Ramchandran.png",
+        "link": "https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
+      },
+      {
+        "title": "Pathuri Aleshita",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Pathuri Aleshita.png",
+        "link": "https://github.com/Aleshita19"
+      },
+      {
+        "title": "G Kartikeya",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/G Kartikeya.png",
+        "link": "https://www.linkedin.com/in/kartikeya-gorantla-611706250/"
+      },
+      {
+        "title": "Avipsa Mitra",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Avipsa Mitra.png",
+        "link": "http://www.linkedin.com/in/avipsa-maitra-379113266"
+      },
+      {
+        "title": "Aditya.k.s",
+        "disc": "Organizer",
+        "image": "images/members/2023/Event-Department/Aditya.k.s.png",
+        "link": "https://www.linkedin.com/in/aditya-ks-25964b22b/"
+      }
+    ], "Creative Department" :[
+      {
+        "title": "Sanjay Bharathi",
+        "disc": "Creative Lead",
+        "image": "images/members/2023/Creative-Department/Sanjay Bharathi.png",
+        "link": "https://in.linkedin.com/in/sanjay-bharathi-a1b82121b"
+      },
+      {
+        "title": "Tharrun S",
+        "disc": "Design Lead",
+        "image": "images/members/2023/Creative-Department/Tharrun S.png",
+        "link": "https://www.linkedin.com/in/tharrun-s-profiler/"
+      },{
+        "title": "Apoorva Parashar",
+        "disc": "Videography Lead",
+        "image": "images/members/2023/Creative-Department/Apoorva Parashar.png",
+        "link": "https://www.linkedin.com/in/apoorvaparashar09/"
+      },{
+        "title": "Himanshu Kumar Sah",
+        "disc": "Designer",
+        "image": "images/members/2023/Creative-Department/Himanshu Kumar Sah.png",
+        "link": "https://www.linkedin.com/in/himanshu-kumar-sah-5a9167253/"
+      },
+      {
+        "title": "J. L. Pugazh Mukilan",
+        "disc": "Designer",
+        "image": "images/members/2023/Creative-Department/J. L. Pugazh Mukilan.png",
+        "link": "https://www.linkedin.com/in/pugazh-mukilan-922206251/"
+      },
+      {
+        "title": "Saurabh Patil",
+        "disc": "Designer",
+        "image": "images/members/2023/Creative-Department/Saurabh Patil.png",
+        "link": "https://www.linkedin.com/in/saurabh-patil-17a457260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "title": "Sreeram Gangavarapu",
+        "disc": "Designer",
+        "image": "images/members/2023/Creative-Department/Sreeram Gangavarapu.png",
+        "link": "https://www.linkedin.com/in/sreeram-gangavarapu-70289024b/"
+      },
+      {
+        "title": "Aarush Shivkumar",
+        "disc": "Videography",
+        "image": "images/members/2023/Creative-Department/AARUSH-SHIVKUMAR.png",
+        "link": "https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
+      },
+      {
+        "title": "Arjun Mirabballi",
+        "disc": "Videography",
+        "image": "images/members/2023/Creative-Department/ARJUN-MIRABALLI.png",
+        "link": "https://www.linkedin.com/in/arjun-mirabballi-86a163253/"
+      },
+      {
+        "title": "B.MITHILESH",
+        "disc": "Videography",
+        "image": "images/members/2023/Creative-Department/B.MITHILESH.png",
+        "link": "https://www.linkedin.com/in/b-mithilesh-a8662b203/"
+      },
+      {
+        "title": "Bhavyaa",
+        "disc": "Videography",
+        "image": "images/members/2023/Creative-Department/Bhavyaa.png",
+        "link": "https://www.linkedin.com/in/bhavyaa-5854088a/"
+      }
+    ],"Editorial Department":[
+      {
+        "title": "Sagnik Sarkar",
+        "disc": "Editorial Lead",
+        "image": "images/members/2023/Editorial-Department/Sagnik-Sarkar.png",
+        "link": "https://www.linkedin.com/in/sagnik-sarkar-710/"
+      },
+      {
+        "title": "Navadeep Naidu",
+        "disc": "Editorial",
+        "image": "images/members/2023/Editorial-Department/Navdeep-Naidu.png",
+        "link": "https://www.linkedin.com/in/navadeep-naidu-67b832230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "title": "Nitin Bhimineni",
+        "disc": "Editorial",
+        "image": "images/members/2023/Editorial-Department/Nitin-Bhimineni.png",
+        "link": "https://www.linkedin.com/in/nitin-bhimineni-438a4b285"
+      },
+      {
+        "title": "Shraddha Menon",
+        "disc": "Editorial",
+        "image": "images/members/2023/Editorial-Department/Shraddha-Menon.png",
+        "link": "https://linkedin.com/in/shraddha-menon-039662265"
+      }
+
     ]
   },
   "2022": {
