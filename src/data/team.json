@@ -31,44 +31,6 @@
         "link": "https://www.linkedin.com/in/anas-kazi-88a064216/"
       },
       {
-        "title": "Aryan Mohanty",
-        "disc": "Tech Lead",
-        "image": "images/members/2023/Tech-Department/Aryan Mohanty.png",
-        "ink": "https://www.linkedin.com/in/aryan-mohanty-230160221/"
-      },
-      {
-        "title": "Sanjay Bharathi",
-        "disc": "Creative Lead",
-        "image": "images/members/2023/Creative-Department/Sanjay Bharathi.png",
-        "link": "https://in.linkedin.com/in/sanjay-bharathi-a1b82121b"
-      },
-      {
-        "title": "Sai Eeshwar",
-        "disc": "Event Lead",
-        "image": "images/members/2023/Event-Department/Sai Eeshwar.png",
-        "link": "https://www.linkedin.com/in/eeshward/"
-      },
-      
-      {
-        "title": "Soumyadip Chowdhuri",
-        "disc": "Game Dev Lead",
-        "image": "/images/members/2023/Admin-Department/Soumyadip-Chowdhuri.webp",
-        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250"
-      },
-      {
-        "title": "Sagnik Sarkar",
-        "disc": "Editorial Lead",
-        "image": "/images/members/2023/Admin-Department/Sagnik-Sarkar.webp",
-        "link": "https://www.linkedin.com/in/sagnik-sarkar-710?trk=contact-info"
-      },
-      
-      {
-        "title": "Apoorva Parashar",
-        "disc": "Videography Lead",
-        "image": "/images/members/2023/Admin-Department/Apoorva-Parashar.webp",
-        "link": "https://www.linkedin.com/in/apoorva-parashar-512bb722a/"
-      },
-      {
         "title": "R Hari Chandana",
         "disc": "PR",
         "image": "/images/members/2023/Admin-Department/R-Hari-Chandana.webp",
@@ -86,13 +48,6 @@
         "disc": "Treasurer",
         "image": "/images/members/2023/Admin-Department/Jai-Gaurav.webp",
         "link": "https://www.linkedin.com/in/jai-gaurav-092656228"
-      },
-      
-      {
-        "title": "Tushar Chopra",
-        "disc": "Head of Marketing",
-        "image": "/images/members/2023/Admin-Department/Tushar Chopra.png",
-        "link": "https://www.linkedin.com/in/tushar-chopra-07525721b/"
       }
     ], "Technical Department":[
       {
@@ -100,6 +55,12 @@
         "disc": "Technical Lead",
         "image": "images/members/2023/Tech-Department/Aryan Mohanty.png",
         "link": "https://www.linkedin.com/in/aryan-mohanty-230160221"
+      },
+      {
+        "title": "Soumyadip Chowdhuri",
+        "disc": "Game Dev Lead",
+        "image": "images/members/2023/Admin-Department/VULCAN.png",
+        "link": "https://www.linkedin.com/in/soumyadip-chowdhuri-b8641b250/"
       },
       {
         "title": "Yash Jain",
@@ -122,7 +83,7 @@
       {
         "title": "JHEEL JOHARI",
         "disc": "Developer",
-        "image": "images/members/2023/Tech-Department/JHEEL JOHARI.png",
+        "image": "images/members/2023/Tech-Department/jheel.png",
         "link": "https://www.linkedin.com/in/jheel-johari-b097aa275"
       },
       {
@@ -143,6 +104,13 @@
         "disc": "Event Lead",
         "image": "images/members/2023/Event-Department/Sai Eeshwar.png",
         "link": "https://www.linkedin.com/in/eeshward/"
+        
+      },
+      {
+        "title": "Tushar Chopra",
+        "disc": "Head of Marketing",
+        "image": "/images/members/2023/Admin-Department/Tushar Chopra.png",
+        "link": "https://www.linkedin.com/in/tushar-chopra-07525721b/"
       },
       {
         "title": "Varshitha Ramireddy",
@@ -254,7 +222,7 @@
       {
         "title": "B.MITHILESH",
         "disc": "Videography",
-        "image": "images/members/2023/Creative-Department/B.MITHILESH.png",
+        "image": "images/members/2023/Creative-Department/Mithilesh.png",
         "link": "https://www.linkedin.com/in/b-mithilesh-a8662b203/"
       },
       {
@@ -279,7 +247,7 @@
       {
         "title": "Nitin Bhimineni",
         "disc": "Editorial",
-        "image": "images/members/2023/Editorial-Department/Nitin-Bhimineni.png",
+        "image": "images/members/2023/Editorial-Department/Nefa.png",
         "link": "https://www.linkedin.com/in/nitin-bhimineni-438a4b285"
       },
       {
