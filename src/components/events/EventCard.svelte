@@ -13,7 +13,7 @@
 <a in:fly href={url} class="p-2 bg-white block rounded-lg bg-opacity-90 drop-shadow-sm hover:drop-shadow-md border border-zinc-200">
     <img alt={title} src={image} class="w-full rounded-md object-cover" />
 
-    <div class="mt-2">
+    <div in:slide class="mt-2">
         <dl>
             <div>
                 <dt class="sr-only">Event sub title</dt>
