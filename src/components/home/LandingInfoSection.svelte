@@ -5,12 +5,12 @@
     {
       title: "GITTY UP",
       description: "A workshop to teach Git & GitHub.",
-      url: "#",
+      url: "https://opensource101.oscvitap.org/",
     },
     {
       title: "Idea Oryx",
       description: "An Ideathon to pitch your innovative ideas.",
-      url: "#",
+      url: "https://ideaoryx.oscvitap.org/",
     },
     {
       title: "Bootcamps",
@@ -25,7 +25,7 @@
     {
       title: "Tech Eden",
       description: "A Hackathon for Tech Enthusiasts.",
-      url: "#",
+      url: "https://techeden.oscvitap.org/",
     },
     {
       title: "SFF",
