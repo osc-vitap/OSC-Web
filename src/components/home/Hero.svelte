@@ -54,7 +54,7 @@
                 class="absolute w-0 h-0 transition-all duration-300 ease-out bg-black rounded-full group-hover:w-56 group-hover:h-56 opacity-5"
               />
               <a
-                href="https://bit.ly/OSCDiscord"
+                href="https://discord.com/invite/DXgfsxXv6c"
                 target="_blank"
                 rel="noopener noreferrer"
               >
