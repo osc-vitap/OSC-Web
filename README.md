@@ -102,6 +102,7 @@ npm run dev -- --open
 5. Create a pull request to the `dev` branch
 6. Add the tech lead as the reviewer
 
----
+<br>
+<br>
+
 If you have any questions, feel free to contact the tech lead over discord or whatsapp
----
