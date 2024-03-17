@@ -16,6 +16,10 @@ import YearWiseData from "../../data/events.json"
     const Years = Object.keys(YearWiseData).reverse()
 </script>	
 
+<svelte:head>
+    <title>Events & Workshops</title>
+</svelte:head>
+
 <div class="flex flex-col items-center justify-between mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
 	<div class="py-12">
         <div class="text-5xl font-extrabold text-white py-12">

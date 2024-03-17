@@ -58,7 +58,7 @@
         
         "Event4":[
             {
-                "url":"#",
+                "url":"https://opensource101.oscvitap.org/",
                 "image":"https://i.ibb.co/djzwSYG/Potrait-Banner.jpg",
                 "title":"GITTY UP: Learn Git & GitHub",
                 "sub_title":"Workshop",
@@ -72,7 +72,7 @@
 
         "Event5":[
             {
-                "url":"#",
+                "url":"https://techeden.oscvitap.org/",
                 "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
                 "title":"TechEden 2.0",
                 "sub_title":"Hackathon",
@@ -139,7 +139,7 @@
         ],
         "Event2":[
             {
-                "url":"#",
+                "url":"https://wsoc.oscvitap.org/",
                 "image":"https://i.ibb.co/7CSS8gg/Place-Holder-black.png",
                 "title":"Winter Season of Code 2021 (Level 0)",
                 "sub_title":"Competition",
@@ -191,7 +191,7 @@
         ],
         "Event6":[
             {
-                "url":"#",
+                "url":"https://wsoc.oscvitap.org/",
                 "image":"https://i.ibb.co/7CSS8gg/Place-Holder-black.png",
                 "title":"Winter Season of Code 2021",
                 "sub_title":"Competition",
@@ -243,7 +243,7 @@
         ],
         "Event10":[
             {
-                "url":"#",
+                "url":"https://ideaoryx.oscvitap.org/",
                 "image":"https://i.ibb.co/7CSS8gg/Place-Holder-black.png",
                 "title":"IdeaOryx",
                 "sub_title":"Hackathon",
@@ -282,7 +282,7 @@
         ],
         "Event13":[
             {
-                "url":"#",
+                "url":"https://techeden.oscvitap.org/",
                 "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
                 "title":"TechEden",
                 "sub_title":"Hackathon",
@@ -336,7 +336,7 @@
         ],
         "Event4":[
             {
-                "url":"#",
+                "url":"https://wsoc.oscvitap.org/",
                 "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
                 "title":"Winter Season of Code 2020 (Level 0)",
                 "sub_title":"Competition",
@@ -349,7 +349,7 @@
         ],
         "Event5":[
             {
-                "url":"#",
+                "url":"https://ideaoryx.oscvitap.org/",
                 "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
                 "title":"IdeaOryx Phase 1",
                 "sub_title":"Competition",
@@ -362,7 +362,7 @@
         ],
         "Event6":[
             {
-                "url":"#",
+                "url":"https://ideaoryx.oscvitap.org/",
                 "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
                 "title":"IdeaOryx Finals",
                 "sub_title":"Competition",
@@ -401,7 +401,7 @@
         ],
         "Event9":[
             {
-                "url":"#",
+                "url":"https://wsoc.oscvitap.org/",
                 "image":"https://www.oscvitap.org/static/media/4.f0c6291e2c00644ded8f.jpg",
                 "title":"Winter Season of Code 2020",
                 "sub_title":"Competition",
@@ -453,7 +453,7 @@
         ],
         "Event13":[
             {
-                "url":"#",
+                "url":"https://techeden.oscvitap.org/",
                 "image":"https://i.ibb.co/7p9YRBk/Teach-Eden.jpg",
                 "title":"TechEden",
                 "sub_title":"Hackathon",
