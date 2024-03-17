@@ -157,7 +157,7 @@
           <ul class="space-y-4 text-sm">
             <li>
               <a
-                href="https://oscvitap.org/contact"
+                href="/contact"
                 class="text-gray-700 transition hover:opacity-75"
                 rel="noreferrer"
                 target="_blank"
