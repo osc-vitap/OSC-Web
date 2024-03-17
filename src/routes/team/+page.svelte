@@ -16,6 +16,10 @@
     const Years = Object.keys(YearWiseData).reverse()
 </script>
 
+<svelte:head>
+    <title>Team</title>
+</svelte:head>
+
 <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
     <div class="py-12">
         <div class="text-5xl font-extrabold text-white py-12">
