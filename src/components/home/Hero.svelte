@@ -3,6 +3,10 @@
   let vCard = false;
 </script>
 
+<svelte:head>
+    <title>Open Source Community</title>
+</svelte:head>
+
 <div class="w-full max-w-screen-xl py-8 px-6 lg:px-8 sm:pt-24">
   <div class="flex items-center justify-between">
     <section>
